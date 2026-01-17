@@ -1,0 +1,4 @@
+iteration,time_ms,violations,status
+0,0,12,INITIAL
+1,58,6,NO_IMPROVEMENT
+8,69,0,FINAL

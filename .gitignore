@@ -1,0 +1,11 @@
+# solutions/*.json
+# violation_log/*.csv
+.github
+bin/
+
+*.class
+# solution_*.json
+# violation_log_*.csv
+# violation_log*.csv
+
+# solution*.json

@@ -1,0 +1,6527 @@
+{
+    "patients": [
+        {
+            "admission_day": 3,
+            "id": "p000",
+            "room": "r10",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": 11,
+            "id": "p001",
+            "room": "r14",
+            "operating_theater": "t0"
+        },
+        {
+            "admission_day": 9,
+            "id": "p002",
+            "room": "r18",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": "none",
+            "id": "p003"
+        },
+        {
+            "admission_day": 8,
+            "id": "p004",
+            "room": "r19",
+            "operating_theater": "t0"
+        },
+        {
+            "admission_day": 7,
+            "id": "p005",
+            "room": "r17",
+            "operating_theater": "t2"
+        },
+        {
+            "admission_day": 9,
+            "id": "p006",
+            "room": "r07",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": 11,
+            "id": "p007",
+            "room": "r06",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": 7,
+            "id": "p008",
+            "room": "r01",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": "none",
+            "id": "p009"
+        },
+        {
+            "admission_day": 19,
+            "id": "p010",
+            "room": "r14",
+            "operating_theater": "t2"
+        },
+        {
+            "admission_day": 20,
+            "id": "p011",
+            "room": "r14",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": "none",
+            "id": "p012"
+        },
+        {
+            "admission_day": "none",
+            "id": "p013"
+        },
+        {
+            "admission_day": 9,
+            "id": "p014",
+            "room": "r11",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": "none",
+            "id": "p015"
+        },
+        {
+            "admission_day": 6,
+            "id": "p016",
+            "room": "r06",
+            "operating_theater": "t0"
+        },
+        {
+            "admission_day": 6,
+            "id": "p017",
+            "room": "r09",
+            "operating_theater": "t0"
+        },
+        {
+            "admission_day": 16,
+            "id": "p018",
+            "room": "r20",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": 20,
+            "id": "p019",
+            "room": "r16",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": 9,
+            "id": "p020",
+            "room": "r12",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": 14,
+            "id": "p021",
+            "room": "r03",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": 20,
+            "id": "p022",
+            "room": "r09",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": 19,
+            "id": "p023",
+            "room": "r04",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": "none",
+            "id": "p024"
+        },
+        {
+            "admission_day": "none",
+            "id": "p025"
+        },
+        {
+            "admission_day": 9,
+            "id": "p026",
+            "room": "r04",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": 19,
+            "id": "p027",
+            "room": "r19",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": "none",
+            "id": "p028"
+        },
+        {
+            "admission_day": 14,
+            "id": "p029",
+            "room": "r00",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": 6,
+            "id": "p030",
+            "room": "r02",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": 7,
+            "id": "p031",
+            "room": "r11",
+            "operating_theater": "t3"
+        },
+        {
+            "admission_day": "none",
+            "id": "p032"
+        },
+        {
+            "admission_day": 7,
+            "id": "p033",
+            "room": "r15",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": 11,
+            "id": "p034",
+            "room": "r07",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": 10,
+            "id": "p035",
+            "room": "r19",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": 19,
+            "id": "p036",
+            "room": "r09",
+            "operating_theater": "t2"
+        },
+        {
+            "admission_day": "none",
+            "id": "p037"
+        },
+        {
+            "admission_day": 20,
+            "id": "p038",
+            "room": "r02",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": 12,
+            "id": "p039",
+            "room": "r20",
+            "operating_theater": "t2"
+        },
+        {
+            "admission_day": 13,
+            "id": "p040",
+            "room": "r09",
+            "operating_theater": "t2"
+        },
+        {
+            "admission_day": 19,
+            "id": "p041",
+            "room": "r17",
+            "operating_theater": "t2"
+        },
+        {
+            "admission_day": 13,
+            "id": "p042",
+            "room": "r05",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": 7,
+            "id": "p043",
+            "room": "r00",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": 14,
+            "id": "p044",
+            "room": "r14",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": 13,
+            "id": "p045",
+            "room": "r17",
+            "operating_theater": "t2"
+        },
+        {
+            "admission_day": 17,
+            "id": "p046",
+            "room": "r16",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": "none",
+            "id": "p047"
+        },
+        {
+            "admission_day": "none",
+            "id": "p048"
+        },
+        {
+            "admission_day": "none",
+            "id": "p049"
+        },
+        {
+            "admission_day": 17,
+            "id": "p050",
+            "room": "r16",
+            "operating_theater": "t2"
+        },
+        {
+            "admission_day": 15,
+            "id": "p051",
+            "room": "r17",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": 7,
+            "id": "p052",
+            "room": "r02",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": 19,
+            "id": "p053",
+            "room": "r01",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": 13,
+            "id": "p054",
+            "room": "r01",
+            "operating_theater": "t2"
+        },
+        {
+            "admission_day": 14,
+            "id": "p055",
+            "room": "r10",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": 2,
+            "id": "p056",
+            "room": "r01",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": 9,
+            "id": "p057",
+            "room": "r11",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": 1,
+            "id": "p058",
+            "room": "r08",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": "none",
+            "id": "p059"
+        },
+        {
+            "admission_day": 9,
+            "id": "p060",
+            "room": "r08",
+            "operating_theater": "t0"
+        },
+        {
+            "admission_day": "none",
+            "id": "p061"
+        },
+        {
+            "admission_day": 19,
+            "id": "p062",
+            "room": "r06",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": 7,
+            "id": "p063",
+            "room": "r15",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": "none",
+            "id": "p064"
+        },
+        {
+            "admission_day": 4,
+            "id": "p065",
+            "room": "r12",
+            "operating_theater": "t0"
+        },
+        {
+            "admission_day": "none",
+            "id": "p066"
+        },
+        {
+            "admission_day": 13,
+            "id": "p067",
+            "room": "r17",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": 9,
+            "id": "p068",
+            "room": "r13",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": "none",
+            "id": "p069"
+        },
+        {
+            "admission_day": "none",
+            "id": "p070"
+        },
+        {
+            "admission_day": 11,
+            "id": "p071",
+            "room": "r18",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": "none",
+            "id": "p072"
+        },
+        {
+            "admission_day": "none",
+            "id": "p073"
+        },
+        {
+            "admission_day": "none",
+            "id": "p074"
+        },
+        {
+            "admission_day": 6,
+            "id": "p075",
+            "room": "r05",
+            "operating_theater": "t0"
+        },
+        {
+            "admission_day": "none",
+            "id": "p076"
+        },
+        {
+            "admission_day": 8,
+            "id": "p077",
+            "room": "r07",
+            "operating_theater": "t0"
+        },
+        {
+            "admission_day": 13,
+            "id": "p078",
+            "room": "r12",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": 4,
+            "id": "p079",
+            "room": "r04",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": "none",
+            "id": "p080"
+        },
+        {
+            "admission_day": 11,
+            "id": "p081",
+            "room": "r16",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": 17,
+            "id": "p082",
+            "room": "r17",
+            "operating_theater": "t2"
+        },
+        {
+            "admission_day": "none",
+            "id": "p083"
+        },
+        {
+            "admission_day": 17,
+            "id": "p084",
+            "room": "r06",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": "none",
+            "id": "p085"
+        },
+        {
+            "admission_day": 16,
+            "id": "p086",
+            "room": "r08",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": "none",
+            "id": "p087"
+        },
+        {
+            "admission_day": "none",
+            "id": "p088"
+        },
+        {
+            "admission_day": 17,
+            "id": "p089",
+            "room": "r16",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": 14,
+            "id": "p090",
+            "room": "r11",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": 16,
+            "id": "p091",
+            "room": "r20",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": 4,
+            "id": "p092",
+            "room": "r17",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": 8,
+            "id": "p093",
+            "room": "r01",
+            "operating_theater": "t0"
+        },
+        {
+            "admission_day": "none",
+            "id": "p094"
+        },
+        {
+            "admission_day": 10,
+            "id": "p095",
+            "room": "r20",
+            "operating_theater": "t0"
+        },
+        {
+            "admission_day": "none",
+            "id": "p096"
+        },
+        {
+            "admission_day": 1,
+            "id": "p097",
+            "room": "r20",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": 20,
+            "id": "p098",
+            "room": "r14",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": 19,
+            "id": "p099",
+            "room": "r03",
+            "operating_theater": "t2"
+        },
+        {
+            "admission_day": 7,
+            "id": "p100",
+            "room": "r16",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": "none",
+            "id": "p101"
+        },
+        {
+            "admission_day": 12,
+            "id": "p102",
+            "room": "r00",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": 7,
+            "id": "p103",
+            "room": "r08",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": "none",
+            "id": "p104"
+        },
+        {
+            "admission_day": "none",
+            "id": "p105"
+        },
+        {
+            "admission_day": 3,
+            "id": "p106",
+            "room": "r07",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": 10,
+            "id": "p107",
+            "room": "r18",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": "none",
+            "id": "p108"
+        },
+        {
+            "admission_day": 18,
+            "id": "p109",
+            "room": "r00",
+            "operating_theater": "t3"
+        },
+        {
+            "admission_day": 3,
+            "id": "p110",
+            "room": "r03",
+            "operating_theater": "t3"
+        },
+        {
+            "admission_day": "none",
+            "id": "p111"
+        },
+        {
+            "admission_day": 15,
+            "id": "p112",
+            "room": "r11",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": 1,
+            "id": "p113",
+            "room": "r17",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": 9,
+            "id": "p114",
+            "room": "r14",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": "none",
+            "id": "p115"
+        },
+        {
+            "admission_day": 5,
+            "id": "p116",
+            "room": "r17",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": 12,
+            "id": "p117",
+            "room": "r16",
+            "operating_theater": "t2"
+        },
+        {
+            "admission_day": "none",
+            "id": "p118"
+        },
+        {
+            "admission_day": "none",
+            "id": "p119"
+        },
+        {
+            "admission_day": 9,
+            "id": "p120",
+            "room": "r03",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": "none",
+            "id": "p121"
+        },
+        {
+            "admission_day": "none",
+            "id": "p122"
+        },
+        {
+            "admission_day": 2,
+            "id": "p123",
+            "room": "r00",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": "none",
+            "id": "p124"
+        },
+        {
+            "admission_day": "none",
+            "id": "p125"
+        },
+        {
+            "admission_day": 5,
+            "id": "p126",
+            "room": "r18",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": "none",
+            "id": "p127"
+        },
+        {
+            "admission_day": "none",
+            "id": "p128"
+        },
+        {
+            "admission_day": 16,
+            "id": "p129",
+            "room": "r00",
+            "operating_theater": "t3"
+        },
+        {
+            "admission_day": 19,
+            "id": "p130",
+            "room": "r02",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": "none",
+            "id": "p131"
+        },
+        {
+            "admission_day": 3,
+            "id": "p132",
+            "room": "r09",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": 9,
+            "id": "p133",
+            "room": "r17",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": "none",
+            "id": "p134"
+        },
+        {
+            "admission_day": 14,
+            "id": "p135",
+            "room": "r12",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": "none",
+            "id": "p136"
+        },
+        {
+            "admission_day": 6,
+            "id": "p137",
+            "room": "r07",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": 8,
+            "id": "p138",
+            "room": "r08",
+            "operating_theater": "t0"
+        },
+        {
+            "admission_day": "none",
+            "id": "p139"
+        },
+        {
+            "admission_day": 2,
+            "id": "p140",
+            "room": "r17",
+            "operating_theater": "t3"
+        },
+        {
+            "admission_day": 19,
+            "id": "p141",
+            "room": "r07",
+            "operating_theater": "t3"
+        },
+        {
+            "admission_day": 3,
+            "id": "p142",
+            "room": "r16",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": "none",
+            "id": "p143"
+        },
+        {
+            "admission_day": "none",
+            "id": "p144"
+        },
+        {
+            "admission_day": 16,
+            "id": "p145",
+            "room": "r10",
+            "operating_theater": "t3"
+        },
+        {
+            "admission_day": "none",
+            "id": "p146"
+        },
+        {
+            "admission_day": 14,
+            "id": "p147",
+            "room": "r04",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": "none",
+            "id": "p148"
+        },
+        {
+            "admission_day": 11,
+            "id": "p149",
+            "room": "r06",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": 2,
+            "id": "p150",
+            "room": "r11",
+            "operating_theater": "t3"
+        },
+        {
+            "admission_day": "none",
+            "id": "p151"
+        },
+        {
+            "admission_day": 2,
+            "id": "p152",
+            "room": "r10",
+            "operating_theater": "t2"
+        },
+        {
+            "admission_day": 4,
+            "id": "p153",
+            "room": "r16",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": 7,
+            "id": "p154",
+            "room": "r20",
+            "operating_theater": "t2"
+        },
+        {
+            "admission_day": 4,
+            "id": "p155",
+            "room": "r15",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": 9,
+            "id": "p156",
+            "room": "r16",
+            "operating_theater": "t0"
+        },
+        {
+            "admission_day": "none",
+            "id": "p157"
+        },
+        {
+            "admission_day": 2,
+            "id": "p158",
+            "room": "r14",
+            "operating_theater": "t2"
+        },
+        {
+            "admission_day": 5,
+            "id": "p159",
+            "room": "r16",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": "none",
+            "id": "p160"
+        },
+        {
+            "admission_day": 10,
+            "id": "p161",
+            "room": "r09",
+            "operating_theater": "t0"
+        },
+        {
+            "admission_day": 2,
+            "id": "p162",
+            "room": "r18",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": 19,
+            "id": "p163",
+            "room": "r06",
+            "operating_theater": "t2"
+        },
+        {
+            "admission_day": 17,
+            "id": "p164",
+            "room": "r18",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": 17,
+            "id": "p165",
+            "room": "r16",
+            "operating_theater": "t2"
+        },
+        {
+            "admission_day": 16,
+            "id": "p166",
+            "room": "r10",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": 4,
+            "id": "p167",
+            "room": "r00",
+            "operating_theater": "t0"
+        },
+        {
+            "admission_day": "none",
+            "id": "p168"
+        },
+        {
+            "admission_day": 2,
+            "id": "p169",
+            "room": "r05",
+            "operating_theater": "t2"
+        },
+        {
+            "admission_day": 18,
+            "id": "p170",
+            "room": "r13",
+            "operating_theater": "t0"
+        },
+        {
+            "admission_day": 6,
+            "id": "p171",
+            "room": "r19",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": 7,
+            "id": "p172",
+            "room": "r10",
+            "operating_theater": "t2"
+        },
+        {
+            "admission_day": 3,
+            "id": "p173",
+            "room": "r03",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": 8,
+            "id": "p174",
+            "room": "r04",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": "none",
+            "id": "p175"
+        },
+        {
+            "admission_day": 2,
+            "id": "p176",
+            "room": "r06",
+            "operating_theater": "t3"
+        },
+        {
+            "admission_day": "none",
+            "id": "p177"
+        },
+        {
+            "admission_day": "none",
+            "id": "p178"
+        },
+        {
+            "admission_day": 13,
+            "id": "p179",
+            "room": "r06",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": 20,
+            "id": "p180",
+            "room": "r10",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": 11,
+            "id": "p181",
+            "room": "r10",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": 16,
+            "id": "p182",
+            "room": "r14",
+            "operating_theater": "t3"
+        },
+        {
+            "admission_day": 1,
+            "id": "p183",
+            "room": "r00",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": 12,
+            "id": "p184",
+            "room": "r05",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": 10,
+            "id": "p185",
+            "room": "r10",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": 16,
+            "id": "p186",
+            "room": "r14",
+            "operating_theater": "t3"
+        },
+        {
+            "admission_day": "none",
+            "id": "p187"
+        },
+        {
+            "admission_day": "none",
+            "id": "p188"
+        },
+        {
+            "admission_day": 2,
+            "id": "p189",
+            "room": "r05",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": 16,
+            "id": "p190",
+            "room": "r13",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": "none",
+            "id": "p191"
+        },
+        {
+            "admission_day": "none",
+            "id": "p192"
+        },
+        {
+            "admission_day": "none",
+            "id": "p193"
+        },
+        {
+            "admission_day": 4,
+            "id": "p194",
+            "room": "r13",
+            "operating_theater": "t0"
+        },
+        {
+            "admission_day": 16,
+            "id": "p195",
+            "room": "r09",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": 3,
+            "id": "p196",
+            "room": "r11",
+            "operating_theater": "t3"
+        },
+        {
+            "admission_day": 10,
+            "id": "p197",
+            "room": "r16",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": 20,
+            "id": "p198",
+            "room": "r10",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": "none",
+            "id": "p199"
+        },
+        {
+            "admission_day": 20,
+            "id": "p200",
+            "room": "r06",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": 4,
+            "id": "p201",
+            "room": "r17",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": 1,
+            "id": "p202",
+            "room": "r08",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": 10,
+            "id": "p203",
+            "room": "r10",
+            "operating_theater": "t0"
+        },
+        {
+            "admission_day": 20,
+            "id": "p204",
+            "room": "r16",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": 4,
+            "id": "p205",
+            "room": "r19",
+            "operating_theater": "t0"
+        },
+        {
+            "admission_day": 3,
+            "id": "p206",
+            "room": "r03",
+            "operating_theater": "t3"
+        },
+        {
+            "admission_day": 7,
+            "id": "p207",
+            "room": "r16",
+            "operating_theater": "t2"
+        },
+        {
+            "admission_day": 8,
+            "id": "p208",
+            "room": "r13",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": 13,
+            "id": "p209",
+            "room": "r08",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": 1,
+            "id": "p210",
+            "room": "r16",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": 4,
+            "id": "p211",
+            "room": "r20",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": 14,
+            "id": "p212",
+            "room": "r15",
+            "operating_theater": "t2"
+        },
+        {
+            "admission_day": 4,
+            "id": "p213",
+            "room": "r06",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": 19,
+            "id": "p214",
+            "room": "r09",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": 7,
+            "id": "p215",
+            "room": "r12",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": 11,
+            "id": "p216",
+            "room": "r09",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": 3,
+            "id": "p217",
+            "room": "r10",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": 1,
+            "id": "p218",
+            "room": "r06",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": 2,
+            "id": "p219",
+            "room": "r06",
+            "operating_theater": "t3"
+        },
+        {
+            "admission_day": 10,
+            "id": "p220",
+            "room": "r13",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": "none",
+            "id": "p221"
+        },
+        {
+            "admission_day": "none",
+            "id": "p222"
+        },
+        {
+            "admission_day": 13,
+            "id": "p223",
+            "room": "r13",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": 11,
+            "id": "p224",
+            "room": "r03",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": "none",
+            "id": "p225"
+        },
+        {
+            "admission_day": "none",
+            "id": "p226"
+        },
+        {
+            "admission_day": "none",
+            "id": "p227"
+        },
+        {
+            "admission_day": "none",
+            "id": "p228"
+        },
+        {
+            "admission_day": "none",
+            "id": "p229"
+        },
+        {
+            "admission_day": 4,
+            "id": "p230",
+            "room": "r00",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": 16,
+            "id": "p231",
+            "room": "r02",
+            "operating_theater": "t0"
+        },
+        {
+            "admission_day": "none",
+            "id": "p232"
+        },
+        {
+            "admission_day": 19,
+            "id": "p233",
+            "room": "r05",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": 20,
+            "id": "p234",
+            "room": "r07",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": 7,
+            "id": "p235",
+            "room": "r06",
+            "operating_theater": "t2"
+        },
+        {
+            "admission_day": "none",
+            "id": "p236"
+        },
+        {
+            "admission_day": 4,
+            "id": "p237",
+            "room": "r13",
+            "operating_theater": "t0"
+        },
+        {
+            "admission_day": 7,
+            "id": "p238",
+            "room": "r03",
+            "operating_theater": "t3"
+        },
+        {
+            "admission_day": 11,
+            "id": "p239",
+            "room": "r06",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": 19,
+            "id": "p240",
+            "room": "r10",
+            "operating_theater": "t3"
+        },
+        {
+            "admission_day": 2,
+            "id": "p241",
+            "room": "r15",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": 7,
+            "id": "p242",
+            "room": "r17",
+            "operating_theater": "t3"
+        },
+        {
+            "admission_day": 4,
+            "id": "p243",
+            "room": "r02",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": 11,
+            "id": "p244",
+            "room": "r17",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": 14,
+            "id": "p245",
+            "room": "r01",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": 19,
+            "id": "p246",
+            "room": "r03",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": 3,
+            "id": "p247",
+            "room": "r10",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": "none",
+            "id": "p248"
+        },
+        {
+            "admission_day": "none",
+            "id": "p249"
+        },
+        {
+            "admission_day": 10,
+            "id": "p250",
+            "room": "r02",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": 5,
+            "id": "p251",
+            "room": "r03",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": 19,
+            "id": "p252",
+            "room": "r18",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": 9,
+            "id": "p253",
+            "room": "r01",
+            "operating_theater": "t0"
+        },
+        {
+            "admission_day": "none",
+            "id": "p254"
+        },
+        {
+            "admission_day": 13,
+            "id": "p255",
+            "room": "r10",
+            "operating_theater": "t2"
+        },
+        {
+            "admission_day": 2,
+            "id": "p256",
+            "room": "r04",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": 18,
+            "id": "p257",
+            "room": "r15",
+            "operating_theater": "t0"
+        },
+        {
+            "admission_day": 4,
+            "id": "p258",
+            "room": "r11",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": 1,
+            "id": "p259",
+            "room": "r19",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": 2,
+            "id": "p260",
+            "room": "r16",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": 9,
+            "id": "p261",
+            "room": "r12",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": 2,
+            "id": "p262",
+            "room": "r09",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": 17,
+            "id": "p263",
+            "room": "r04",
+            "operating_theater": "t2"
+        },
+        {
+            "admission_day": 11,
+            "id": "p264",
+            "room": "r06",
+            "operating_theater": "t0"
+        },
+        {
+            "admission_day": 19,
+            "id": "p265",
+            "room": "r08",
+            "operating_theater": "t2"
+        },
+        {
+            "admission_day": 3,
+            "id": "p266",
+            "room": "r09",
+            "operating_theater": "t3"
+        },
+        {
+            "admission_day": "none",
+            "id": "p267"
+        },
+        {
+            "admission_day": "none",
+            "id": "p268"
+        },
+        {
+            "admission_day": 14,
+            "id": "p269",
+            "room": "r10",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": "none",
+            "id": "p270"
+        },
+        {
+            "admission_day": 2,
+            "id": "p271",
+            "room": "r01",
+            "operating_theater": "t3"
+        },
+        {
+            "admission_day": 14,
+            "id": "p272",
+            "room": "r15",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": 5,
+            "id": "p273",
+            "room": "r12",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": 19,
+            "id": "p274",
+            "room": "r05",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": 19,
+            "id": "p275",
+            "room": "r05",
+            "operating_theater": "t6"
+        },
+        {
+            "admission_day": 14,
+            "id": "p276",
+            "room": "r07",
+            "operating_theater": "t2"
+        },
+        {
+            "admission_day": 6,
+            "id": "p277",
+            "room": "r03",
+            "operating_theater": "t0"
+        },
+        {
+            "admission_day": 19,
+            "id": "p278",
+            "room": "r15",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": 18,
+            "id": "p279",
+            "room": "r01",
+            "operating_theater": "t0"
+        },
+        {
+            "admission_day": 14,
+            "id": "p280",
+            "room": "r19",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": 4,
+            "id": "p281",
+            "room": "r06",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": 14,
+            "id": "p282",
+            "room": "r09",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": 4,
+            "id": "p283",
+            "room": "r02",
+            "operating_theater": "t1"
+        },
+        {
+            "admission_day": "none",
+            "id": "p284"
+        },
+        {
+            "admission_day": "none",
+            "id": "p285"
+        },
+        {
+            "admission_day": 19,
+            "id": "p286",
+            "room": "r10",
+            "operating_theater": "t5"
+        },
+        {
+            "admission_day": 8,
+            "id": "p287",
+            "room": "r17",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": 9,
+            "id": "p288",
+            "room": "r03",
+            "operating_theater": "t4"
+        },
+        {
+            "admission_day": "none",
+            "id": "p289"
+        },
+        {
+            "admission_day": 2,
+            "id": "p290",
+            "room": "r07",
+            "operating_theater": "t3"
+        },
+        {
+            "admission_day": "none",
+            "id": "p291"
+        },
+        {
+            "admission_day": "none",
+            "id": "p292"
+        },
+        {
+            "admission_day": 7,
+            "id": "p293",
+            "room": "r19",
+            "operating_theater": "t3"
+        }
+    ],
+    "nurses": [
+        {
+            "assignments": [
+                {
+                    "rooms": ["r20"],
+                    "shift": "late",
+                    "day": 0
+                },
+                {
+                    "rooms": ["r20"],
+                    "shift": "late",
+                    "day": 1
+                },
+                {
+                    "rooms": [
+                        "r20",
+                        "r06"
+                    ],
+                    "shift": "late",
+                    "day": 2
+                },
+                {
+                    "rooms": [
+                        "r18",
+                        "r12",
+                        "r06",
+                        "r02",
+                        "r07"
+                    ],
+                    "shift": "night",
+                    "day": 3
+                },
+                {
+                    "rooms": [
+                        "r07",
+                        "r18",
+                        "r17"
+                    ],
+                    "shift": "night",
+                    "day": 4
+                },
+                {
+                    "rooms": [
+                        "r17",
+                        "r07"
+                    ],
+                    "shift": "night",
+                    "day": 5
+                },
+                {
+                    "rooms": ["r17"],
+                    "shift": "night",
+                    "day": 6
+                },
+                {
+                    "rooms": ["r06"],
+                    "shift": "night",
+                    "day": 8
+                },
+                {
+                    "rooms": ["r16"],
+                    "shift": "early",
+                    "day": 10
+                },
+                {
+                    "rooms": ["r18"],
+                    "shift": "early",
+                    "day": 12
+                },
+                {
+                    "rooms": ["r06"],
+                    "shift": "early",
+                    "day": 13
+                },
+                {
+                    "rooms": [
+                        "r18",
+                        "r01",
+                        "r06"
+                    ],
+                    "shift": "early",
+                    "day": 14
+                },
+                {
+                    "rooms": ["r18"],
+                    "shift": "early",
+                    "day": 15
+                },
+                {
+                    "rooms": ["r01"],
+                    "shift": "late",
+                    "day": 16
+                },
+                {
+                    "rooms": [
+                        "r18",
+                        "r08",
+                        "r04",
+                        "r01",
+                        "r07"
+                    ],
+                    "shift": "late",
+                    "day": 17
+                },
+                {
+                    "rooms": [
+                        "r03",
+                        "r08",
+                        "r04"
+                    ],
+                    "shift": "late",
+                    "day": 18
+                },
+                {
+                    "rooms": [
+                        "r18",
+                        "r04"
+                    ],
+                    "shift": "night",
+                    "day": 19
+                }
+            ],
+            "id": "n000"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": [
+                        "r04",
+                        "r08",
+                        "r09",
+                        "r12"
+                    ],
+                    "shift": "late",
+                    "day": 0
+                },
+                {
+                    "rooms": ["r04"],
+                    "shift": "night",
+                    "day": 1
+                },
+                {
+                    "rooms": ["r04"],
+                    "shift": "night",
+                    "day": 2
+                },
+                {
+                    "rooms": [
+                        "r04",
+                        "r20"
+                    ],
+                    "shift": "night",
+                    "day": 3
+                },
+                {
+                    "rooms": [
+                        "r15",
+                        "r20"
+                    ],
+                    "shift": "early",
+                    "day": 5
+                },
+                {
+                    "rooms": [
+                        "r20",
+                        "r07"
+                    ],
+                    "shift": "early",
+                    "day": 6
+                },
+                {
+                    "rooms": [
+                        "r07",
+                        "r12",
+                        "r20",
+                        "r04",
+                        "r14"
+                    ],
+                    "shift": "late",
+                    "day": 7
+                },
+                {
+                    "rooms": [
+                        "r12",
+                        "r20"
+                    ],
+                    "shift": "night",
+                    "day": 8
+                },
+                {
+                    "rooms": ["r04"],
+                    "shift": "early",
+                    "day": 10
+                },
+                {
+                    "rooms": ["r04"],
+                    "shift": "late",
+                    "day": 11
+                },
+                {
+                    "rooms": [
+                        "r04",
+                        "r19"
+                    ],
+                    "shift": "early",
+                    "day": 13
+                },
+                {
+                    "rooms": [
+                        "r11",
+                        "r04"
+                    ],
+                    "shift": "late",
+                    "day": 14
+                },
+                {
+                    "rooms": ["r20"],
+                    "shift": "late",
+                    "day": 15
+                },
+                {
+                    "rooms": ["r04"],
+                    "shift": "late",
+                    "day": 16
+                },
+                {
+                    "rooms": [
+                        "r04",
+                        "r13"
+                    ],
+                    "shift": "early",
+                    "day": 18
+                },
+                {
+                    "rooms": [
+                        "r17",
+                        "r04",
+                        "r07"
+                    ],
+                    "shift": "late",
+                    "day": 19
+                },
+                {
+                    "rooms": [
+                        "r17",
+                        "r13",
+                        "r20",
+                        "r02",
+                        "r11",
+                        "r04"
+                    ],
+                    "shift": "night",
+                    "day": 20
+                }
+            ],
+            "id": "n001"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": ["r13"],
+                    "shift": "early",
+                    "day": 0
+                },
+                {
+                    "rooms": [
+                        "r05",
+                        "r13",
+                        "r03"
+                    ],
+                    "shift": "early",
+                    "day": 1
+                },
+                {
+                    "rooms": ["r19"],
+                    "shift": "late",
+                    "day": 2
+                },
+                {
+                    "rooms": [
+                        "r19",
+                        "r20",
+                        "r18",
+                        "r13",
+                        "r03"
+                    ],
+                    "shift": "late",
+                    "day": 3
+                },
+                {
+                    "rooms": [
+                        "r03",
+                        "r18"
+                    ],
+                    "shift": "late",
+                    "day": 4
+                },
+                {
+                    "rooms": [
+                        "r18",
+                        "r08"
+                    ],
+                    "shift": "late",
+                    "day": 5
+                },
+                {
+                    "rooms": [
+                        "r04",
+                        "r18"
+                    ],
+                    "shift": "late",
+                    "day": 6
+                },
+                {
+                    "rooms": [
+                        "r11",
+                        "r00",
+                        "r04"
+                    ],
+                    "shift": "night",
+                    "day": 7
+                },
+                {
+                    "rooms": [
+                        "r06",
+                        "r07"
+                    ],
+                    "shift": "early",
+                    "day": 9
+                },
+                {
+                    "rooms": [
+                        "r02",
+                        "r00"
+                    ],
+                    "shift": "late",
+                    "day": 10
+                },
+                {
+                    "rooms": ["r07"],
+                    "shift": "late",
+                    "day": 11
+                },
+                {
+                    "rooms": [
+                        "r15",
+                        "r07",
+                        "r20",
+                        "r05",
+                        "r08"
+                    ],
+                    "shift": "late",
+                    "day": 12
+                },
+                {
+                    "rooms": [
+                        "r02",
+                        "r20"
+                    ],
+                    "shift": "late",
+                    "day": 13
+                },
+                {
+                    "rooms": [
+                        "r02",
+                        "r20",
+                        "r18"
+                    ],
+                    "shift": "late",
+                    "day": 14
+                },
+                {
+                    "rooms": [
+                        "r18",
+                        "r06"
+                    ],
+                    "shift": "early",
+                    "day": 16
+                },
+                {
+                    "rooms": [
+                        "r18",
+                        "r05"
+                    ],
+                    "shift": "night",
+                    "day": 17
+                },
+                {
+                    "rooms": [
+                        "r19",
+                        "r05",
+                        "r12",
+                        "r18",
+                        "r07"
+                    ],
+                    "shift": "night",
+                    "day": 18
+                },
+                {
+                    "rooms": ["r18"],
+                    "shift": "early",
+                    "day": 20
+                }
+            ],
+            "id": "n002"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": ["r01"],
+                    "shift": "early",
+                    "day": 0
+                },
+                {
+                    "rooms": [
+                        "r09",
+                        "r01",
+                        "r00"
+                    ],
+                    "shift": "early",
+                    "day": 1
+                },
+                {
+                    "rooms": ["r00"],
+                    "shift": "early",
+                    "day": 2
+                },
+                {
+                    "rooms": [
+                        "r02",
+                        "r01",
+                        "r00"
+                    ],
+                    "shift": "early",
+                    "day": 3
+                },
+                {
+                    "rooms": ["r01"],
+                    "shift": "late",
+                    "day": 4
+                },
+                {
+                    "rooms": [
+                        "r00",
+                        "r20"
+                    ],
+                    "shift": "night",
+                    "day": 5
+                },
+                {
+                    "rooms": [
+                        "r00",
+                        "r10",
+                        "r01"
+                    ],
+                    "shift": "early",
+                    "day": 7
+                },
+                {
+                    "rooms": [
+                        "r20",
+                        "r13",
+                        "r00",
+                        "r10"
+                    ],
+                    "shift": "late",
+                    "day": 8
+                },
+                {
+                    "rooms": ["r00"],
+                    "shift": "early",
+                    "day": 10
+                },
+                {
+                    "rooms": ["r00"],
+                    "shift": "early",
+                    "day": 11
+                },
+                {
+                    "rooms": ["r08"],
+                    "shift": "early",
+                    "day": 12
+                },
+                {
+                    "rooms": [
+                        "r05",
+                        "r19",
+                        "r11"
+                    ],
+                    "shift": "late",
+                    "day": 13
+                },
+                {
+                    "rooms": ["r05"],
+                    "shift": "late",
+                    "day": 14
+                },
+                {
+                    "rooms": [
+                        "r08",
+                        "r06",
+                        "r05",
+                        "r13"
+                    ],
+                    "shift": "night",
+                    "day": 15
+                },
+                {
+                    "rooms": ["r05"],
+                    "shift": "night",
+                    "day": 16
+                },
+                {
+                    "rooms": ["r07"],
+                    "shift": "early",
+                    "day": 18
+                },
+                {
+                    "rooms": ["r09"],
+                    "shift": "late",
+                    "day": 19
+                }
+            ],
+            "id": "n003"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": ["r18"],
+                    "shift": "late",
+                    "day": 0
+                },
+                {
+                    "rooms": ["r18"],
+                    "shift": "late",
+                    "day": 1
+                },
+                {
+                    "rooms": [
+                        "r14",
+                        "r18"
+                    ],
+                    "shift": "late",
+                    "day": 2
+                },
+                {
+                    "rooms": [
+                        "r10",
+                        "r14",
+                        "r11"
+                    ],
+                    "shift": "night",
+                    "day": 3
+                },
+                {
+                    "rooms": [
+                        "r10",
+                        "r02"
+                    ],
+                    "shift": "night",
+                    "day": 4
+                },
+                {
+                    "rooms": [
+                        "r01",
+                        "r16",
+                        "r10",
+                        "r02"
+                    ],
+                    "shift": "night",
+                    "day": 5
+                },
+                {
+                    "rooms": [
+                        "r08",
+                        "r04",
+                        "r16",
+                        "r13",
+                        "r11"
+                    ],
+                    "shift": "early",
+                    "day": 7
+                },
+                {
+                    "rooms": ["r16"],
+                    "shift": "night",
+                    "day": 8
+                },
+                {
+                    "rooms": [
+                        "r11",
+                        "r02",
+                        "r18",
+                        "r04",
+                        "r12"
+                    ],
+                    "shift": "night",
+                    "day": 9
+                },
+                {
+                    "rooms": ["r12"],
+                    "shift": "night",
+                    "day": 10
+                },
+                {
+                    "rooms": [
+                        "r05",
+                        "r11",
+                        "r12",
+                        "r15",
+                        "r00"
+                    ],
+                    "shift": "night",
+                    "day": 11
+                },
+                {
+                    "rooms": [
+                        "r11",
+                        "r04"
+                    ],
+                    "shift": "night",
+                    "day": 12
+                },
+                {
+                    "rooms": [
+                        "r04",
+                        "r13",
+                        "r02"
+                    ],
+                    "shift": "early",
+                    "day": 14
+                },
+                {
+                    "rooms": ["r11"],
+                    "shift": "early",
+                    "day": 15
+                },
+                {
+                    "rooms": [
+                        "r16",
+                        "r11"
+                    ],
+                    "shift": "early",
+                    "day": 16
+                },
+                {
+                    "rooms": [
+                        "r20",
+                        "r11"
+                    ],
+                    "shift": "early",
+                    "day": 17
+                },
+                {
+                    "rooms": [
+                        "r16",
+                        "r19",
+                        "r03",
+                        "r11",
+                        "r20"
+                    ],
+                    "shift": "early",
+                    "day": 18
+                },
+                {
+                    "rooms": ["r16"],
+                    "shift": "early",
+                    "day": 19
+                },
+                {
+                    "rooms": [
+                        "r10",
+                        "r02"
+                    ],
+                    "shift": "early",
+                    "day": 20
+                }
+            ],
+            "id": "n004"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": [
+                        "r01",
+                        "r14",
+                        "r19",
+                        "r16",
+                        "r03",
+                        "r07"
+                    ],
+                    "shift": "late",
+                    "day": 0
+                },
+                {
+                    "rooms": [
+                        "r03",
+                        "r16",
+                        "r01",
+                        "r07"
+                    ],
+                    "shift": "late",
+                    "day": 1
+                },
+                {
+                    "rooms": [
+                        "r07",
+                        "r13"
+                    ],
+                    "shift": "late",
+                    "day": 2
+                },
+                {
+                    "rooms": ["r14"],
+                    "shift": "late",
+                    "day": 3
+                },
+                {
+                    "rooms": [
+                        "r13",
+                        "r11"
+                    ],
+                    "shift": "late",
+                    "day": 4
+                },
+                {
+                    "rooms": [
+                        "r14",
+                        "r13",
+                        "r11"
+                    ],
+                    "shift": "late",
+                    "day": 5
+                },
+                {
+                    "rooms": ["r13"],
+                    "shift": "late",
+                    "day": 6
+                },
+                {
+                    "rooms": [
+                        "r09",
+                        "r17",
+                        "r14"
+                    ],
+                    "shift": "night",
+                    "day": 7
+                },
+                {
+                    "rooms": [
+                        "r14",
+                        "r09",
+                        "r01",
+                        "r13"
+                    ],
+                    "shift": "night",
+                    "day": 8
+                },
+                {
+                    "rooms": [
+                        "r09",
+                        "r01"
+                    ],
+                    "shift": "night",
+                    "day": 9
+                },
+                {
+                    "rooms": [
+                        "r01",
+                        "r13"
+                    ],
+                    "shift": "night",
+                    "day": 10
+                },
+                {
+                    "rooms": [
+                        "r13",
+                        "r06",
+                        "r01"
+                    ],
+                    "shift": "night",
+                    "day": 11
+                },
+                {
+                    "rooms": [
+                        "r10",
+                        "r01",
+                        "r13"
+                    ],
+                    "shift": "late",
+                    "day": 13
+                },
+                {
+                    "rooms": ["r10"],
+                    "shift": "night",
+                    "day": 14
+                },
+                {
+                    "rooms": [
+                        "r01",
+                        "r00",
+                        "r19",
+                        "r10"
+                    ],
+                    "shift": "night",
+                    "day": 15
+                },
+                {
+                    "rooms": [
+                        "r01",
+                        "r19"
+                    ],
+                    "shift": "night",
+                    "day": 16
+                },
+                {
+                    "rooms": ["r06"],
+                    "shift": "early",
+                    "day": 18
+                },
+                {
+                    "rooms": ["r03"],
+                    "shift": "late",
+                    "day": 19
+                },
+                {
+                    "rooms": [
+                        "r09",
+                        "r03",
+                        "r00"
+                    ],
+                    "shift": "late",
+                    "day": 20
+                }
+            ],
+            "id": "n005"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": ["r02"],
+                    "shift": "late",
+                    "day": 0
+                },
+                {
+                    "rooms": [
+                        "r04",
+                        "r02"
+                    ],
+                    "shift": "late",
+                    "day": 1
+                },
+                {
+                    "rooms": ["r11"],
+                    "shift": "late",
+                    "day": 2
+                },
+                {
+                    "rooms": [
+                        "r04",
+                        "r12",
+                        "r19"
+                    ],
+                    "shift": "early",
+                    "day": 4
+                },
+                {
+                    "rooms": [
+                        "r08",
+                        "r12",
+                        "r19",
+                        "r04"
+                    ],
+                    "shift": "early",
+                    "day": 5
+                },
+                {
+                    "rooms": [
+                        "r19",
+                        "r12"
+                    ],
+                    "shift": "night",
+                    "day": 6
+                },
+                {
+                    "rooms": ["r19"],
+                    "shift": "early",
+                    "day": 8
+                },
+                {
+                    "rooms": [
+                        "r19",
+                        "r02",
+                        "r17"
+                    ],
+                    "shift": "late",
+                    "day": 9
+                },
+                {
+                    "rooms": ["r19"],
+                    "shift": "late",
+                    "day": 10
+                },
+                {
+                    "rooms": [
+                        "r01",
+                        "r02"
+                    ],
+                    "shift": "late",
+                    "day": 11
+                },
+                {
+                    "rooms": [
+                        "r02",
+                        "r01"
+                    ],
+                    "shift": "late",
+                    "day": 12
+                },
+                {
+                    "rooms": ["r08"],
+                    "shift": "early",
+                    "day": 14
+                },
+                {
+                    "rooms": [
+                        "r04",
+                        "r08",
+                        "r02"
+                    ],
+                    "shift": "early",
+                    "day": 15
+                },
+                {
+                    "rooms": [
+                        "r08",
+                        "r19",
+                        "r09"
+                    ],
+                    "shift": "late",
+                    "day": 16
+                },
+                {
+                    "rooms": [
+                        "r03",
+                        "r09",
+                        "r19",
+                        "r17"
+                    ],
+                    "shift": "night",
+                    "day": 17
+                },
+                {
+                    "rooms": ["r17"],
+                    "shift": "night",
+                    "day": 18
+                },
+                {
+                    "rooms": ["r05"],
+                    "shift": "early",
+                    "day": 20
+                }
+            ],
+            "id": "n006"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": ["r13"],
+                    "shift": "late",
+                    "day": 0
+                },
+                {
+                    "rooms": ["r18"],
+                    "shift": "early",
+                    "day": 2
+                },
+                {
+                    "rooms": ["r16"],
+                    "shift": "early",
+                    "day": 3
+                },
+                {
+                    "rooms": [
+                        "r16",
+                        "r06",
+                        "r09",
+                        "r08",
+                        "r13"
+                    ],
+                    "shift": "night",
+                    "day": 4
+                },
+                {
+                    "rooms": [
+                        "r06",
+                        "r15",
+                        "r09",
+                        "r18"
+                    ],
+                    "shift": "night",
+                    "day": 5
+                },
+                {
+                    "rooms": [
+                        "r00",
+                        "r16",
+                        "r08",
+                        "r04",
+                        "r13",
+                        "r15",
+                        "r18",
+                        "r20"
+                    ],
+                    "shift": "night",
+                    "day": 6
+                },
+                {
+                    "rooms": ["r20"],
+                    "shift": "early",
+                    "day": 8
+                },
+                {
+                    "rooms": ["r17"],
+                    "shift": "early",
+                    "day": 9
+                },
+                {
+                    "rooms": [
+                        "r09",
+                        "r17"
+                    ],
+                    "shift": "late",
+                    "day": 10
+                },
+                {
+                    "rooms": ["r16"],
+                    "shift": "night",
+                    "day": 11
+                },
+                {
+                    "rooms": [
+                        "r16",
+                        "r15"
+                    ],
+                    "shift": "late",
+                    "day": 13
+                },
+                {
+                    "rooms": [
+                        "r19",
+                        "r10",
+                        "r16",
+                        "r14"
+                    ],
+                    "shift": "late",
+                    "day": 14
+                },
+                {
+                    "rooms": ["r14"],
+                    "shift": "late",
+                    "day": 16
+                },
+                {
+                    "rooms": ["r14"],
+                    "shift": "late",
+                    "day": 17
+                },
+                {
+                    "rooms": ["r14"],
+                    "shift": "late",
+                    "day": 18
+                },
+                {
+                    "rooms": ["r14"],
+                    "shift": "night",
+                    "day": 19
+                }
+            ],
+            "id": "n007"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": [
+                        "r11",
+                        "r06"
+                    ],
+                    "shift": "late",
+                    "day": 0
+                },
+                {
+                    "rooms": ["r11"],
+                    "shift": "late",
+                    "day": 1
+                },
+                {
+                    "rooms": [
+                        "r08",
+                        "r12",
+                        "r18"
+                    ],
+                    "shift": "early",
+                    "day": 3
+                },
+                {
+                    "rooms": ["r06"],
+                    "shift": "early",
+                    "day": 4
+                },
+                {
+                    "rooms": [
+                        "r06",
+                        "r18"
+                    ],
+                    "shift": "early",
+                    "day": 5
+                },
+                {
+                    "rooms": [
+                        "r06",
+                        "r01"
+                    ],
+                    "shift": "early",
+                    "day": 6
+                },
+                {
+                    "rooms": [
+                        "r14",
+                        "r06"
+                    ],
+                    "shift": "early",
+                    "day": 7
+                },
+                {
+                    "rooms": ["r16"],
+                    "shift": "late",
+                    "day": 9
+                },
+                {
+                    "rooms": [
+                        "r20",
+                        "r16"
+                    ],
+                    "shift": "late",
+                    "day": 10
+                },
+                {
+                    "rooms": [
+                        "r20",
+                        "r16"
+                    ],
+                    "shift": "late",
+                    "day": 11
+                },
+                {
+                    "rooms": ["r17"],
+                    "shift": "early",
+                    "day": 13
+                },
+                {
+                    "rooms": [
+                        "r17",
+                        "r03",
+                        "r16"
+                    ],
+                    "shift": "early",
+                    "day": 14
+                },
+                {
+                    "rooms": [
+                        "r16",
+                        "r03"
+                    ],
+                    "shift": "early",
+                    "day": 15
+                },
+                {
+                    "rooms": ["r03"],
+                    "shift": "late",
+                    "day": 16
+                },
+                {
+                    "rooms": [
+                        "r00",
+                        "r03"
+                    ],
+                    "shift": "late",
+                    "day": 17
+                },
+                {
+                    "rooms": ["r10"],
+                    "shift": "late",
+                    "day": 19
+                },
+                {
+                    "rooms": ["r10"],
+                    "shift": "night",
+                    "day": 20
+                }
+            ],
+            "id": "n008"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": ["r00"],
+                    "shift": "late",
+                    "day": 0
+                },
+                {
+                    "rooms": ["r00"],
+                    "shift": "late",
+                    "day": 1
+                },
+                {
+                    "rooms": ["r15"],
+                    "shift": "night",
+                    "day": 2
+                },
+                {
+                    "rooms": [
+                        "r04",
+                        "r20",
+                        "r11",
+                        "r15"
+                    ],
+                    "shift": "night",
+                    "day": 4
+                },
+                {
+                    "rooms": ["r11"],
+                    "shift": "night",
+                    "day": 5
+                },
+                {
+                    "rooms": [
+                        "r10",
+                        "r09",
+                        "r11"
+                    ],
+                    "shift": "night",
+                    "day": 6
+                },
+                {
+                    "rooms": ["r20"],
+                    "shift": "night",
+                    "day": 7
+                },
+                {
+                    "rooms": [
+                        "r02",
+                        "r00",
+                        "r09",
+                        "r08",
+                        "r20"
+                    ],
+                    "shift": "early",
+                    "day": 9
+                },
+                {
+                    "rooms": ["r08"],
+                    "shift": "early",
+                    "day": 10
+                },
+                {
+                    "rooms": ["r06"],
+                    "shift": "early",
+                    "day": 11
+                },
+                {
+                    "rooms": ["r06"],
+                    "shift": "early",
+                    "day": 12
+                },
+                {
+                    "rooms": ["r13"],
+                    "shift": "early",
+                    "day": 13
+                },
+                {
+                    "rooms": ["r09"],
+                    "shift": "early",
+                    "day": 14
+                },
+                {
+                    "rooms": [
+                        "r09",
+                        "r01",
+                        "r14",
+                        "r06"
+                    ],
+                    "shift": "early",
+                    "day": 15
+                },
+                {
+                    "rooms": [
+                        "r12",
+                        "r09"
+                    ],
+                    "shift": "early",
+                    "day": 16
+                },
+                {
+                    "rooms": [
+                        "r12",
+                        "r09"
+                    ],
+                    "shift": "early",
+                    "day": 18
+                },
+                {
+                    "rooms": ["r14"],
+                    "shift": "late",
+                    "day": 19
+                },
+                {
+                    "rooms": ["r14"],
+                    "shift": "night",
+                    "day": 20
+                }
+            ],
+            "id": "n009"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": ["r10"],
+                    "shift": "late",
+                    "day": 0
+                },
+                {
+                    "rooms": [
+                        "r10",
+                        "r05"
+                    ],
+                    "shift": "late",
+                    "day": 1
+                },
+                {
+                    "rooms": [
+                        "r15",
+                        "r06",
+                        "r04"
+                    ],
+                    "shift": "late",
+                    "day": 4
+                },
+                {
+                    "rooms": ["r04"],
+                    "shift": "late",
+                    "day": 5
+                },
+                {
+                    "rooms": ["r03"],
+                    "shift": "early",
+                    "day": 7
+                },
+                {
+                    "rooms": [
+                        "r08",
+                        "r03"
+                    ],
+                    "shift": "early",
+                    "day": 8
+                },
+                {
+                    "rooms": [
+                        "r01",
+                        "r03"
+                    ],
+                    "shift": "late",
+                    "day": 9
+                },
+                {
+                    "rooms": [
+                        "r03",
+                        "r08",
+                        "r01"
+                    ],
+                    "shift": "early",
+                    "day": 11
+                },
+                {
+                    "rooms": [
+                        "r10",
+                        "r02",
+                        "r15",
+                        "r03",
+                        "r05",
+                        "r17"
+                    ],
+                    "shift": "early",
+                    "day": 12
+                },
+                {
+                    "rooms": [
+                        "r12",
+                        "r15"
+                    ],
+                    "shift": "early",
+                    "day": 14
+                },
+                {
+                    "rooms": [
+                        "r12",
+                        "r05",
+                        "r15"
+                    ],
+                    "shift": "early",
+                    "day": 15
+                },
+                {
+                    "rooms": ["r15"],
+                    "shift": "early",
+                    "day": 16
+                },
+                {
+                    "rooms": [
+                        "r05",
+                        "r12",
+                        "r15",
+                        "r06"
+                    ],
+                    "shift": "late",
+                    "day": 17
+                },
+                {
+                    "rooms": [
+                        "r12",
+                        "r06"
+                    ],
+                    "shift": "late",
+                    "day": 18
+                },
+                {
+                    "rooms": [
+                        "r06",
+                        "r05",
+                        "r12",
+                        "r02"
+                    ],
+                    "shift": "night",
+                    "day": 19
+                },
+                {
+                    "rooms": ["r05"],
+                    "shift": "night",
+                    "day": 20
+                }
+            ],
+            "id": "n010"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": ["r17"],
+                    "shift": "late",
+                    "day": 0
+                },
+                {
+                    "rooms": [
+                        "r17",
+                        "r06"
+                    ],
+                    "shift": "late",
+                    "day": 1
+                },
+                {
+                    "rooms": [
+                        "r07",
+                        "r06"
+                    ],
+                    "shift": "early",
+                    "day": 3
+                },
+                {
+                    "rooms": [
+                        "r02",
+                        "r09",
+                        "r07"
+                    ],
+                    "shift": "late",
+                    "day": 4
+                },
+                {
+                    "rooms": [
+                        "r02",
+                        "r16"
+                    ],
+                    "shift": "late",
+                    "day": 5
+                },
+                {
+                    "rooms": ["r07"],
+                    "shift": "night",
+                    "day": 6
+                },
+                {
+                    "rooms": [
+                        "r01",
+                        "r15"
+                    ],
+                    "shift": "early",
+                    "day": 8
+                },
+                {
+                    "rooms": ["r15"],
+                    "shift": "early",
+                    "day": 9
+                },
+                {
+                    "rooms": [
+                        "r15",
+                        "r20",
+                        "r06",
+                        "r01"
+                    ],
+                    "shift": "early",
+                    "day": 10
+                },
+                {
+                    "rooms": ["r09"],
+                    "shift": "early",
+                    "day": 11
+                },
+                {
+                    "rooms": [
+                        "r09",
+                        "r00",
+                        "r13"
+                    ],
+                    "shift": "early",
+                    "day": 12
+                },
+                {
+                    "rooms": [
+                        "r06",
+                        "r12"
+                    ],
+                    "shift": "late",
+                    "day": 13
+                },
+                {
+                    "rooms": [
+                        "r06",
+                        "r00"
+                    ],
+                    "shift": "late",
+                    "day": 14
+                },
+                {
+                    "rooms": ["r00"],
+                    "shift": "late",
+                    "day": 15
+                },
+                {
+                    "rooms": ["r00"],
+                    "shift": "early",
+                    "day": 17
+                },
+                {
+                    "rooms": [
+                        "r01",
+                        "r00"
+                    ],
+                    "shift": "early",
+                    "day": 18
+                },
+                {
+                    "rooms": ["r00"],
+                    "shift": "early",
+                    "day": 19
+                },
+                {
+                    "rooms": ["r01"],
+                    "shift": "early",
+                    "day": 20
+                }
+            ],
+            "id": "n011"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": ["r19"],
+                    "shift": "early",
+                    "day": 1
+                },
+                {
+                    "rooms": [
+                        "r05",
+                        "r19"
+                    ],
+                    "shift": "early",
+                    "day": 2
+                },
+                {
+                    "rooms": ["r05"],
+                    "shift": "early",
+                    "day": 4
+                },
+                {
+                    "rooms": ["r05"],
+                    "shift": "early",
+                    "day": 5
+                },
+                {
+                    "rooms": ["r12"],
+                    "shift": "early",
+                    "day": 6
+                },
+                {
+                    "rooms": ["r12"],
+                    "shift": "early",
+                    "day": 7
+                },
+                {
+                    "rooms": ["r12"],
+                    "shift": "early",
+                    "day": 8
+                },
+                {
+                    "rooms": ["r03"],
+                    "shift": "early",
+                    "day": 9
+                },
+                {
+                    "rooms": ["r03"],
+                    "shift": "early",
+                    "day": 10
+                },
+                {
+                    "rooms": [
+                        "r02",
+                        "r03"
+                    ],
+                    "shift": "night",
+                    "day": 11
+                },
+                {
+                    "rooms": ["r03"],
+                    "shift": "night",
+                    "day": 12
+                },
+                {
+                    "rooms": [
+                        "r03",
+                        "r05"
+                    ],
+                    "shift": "night",
+                    "day": 13
+                },
+                {
+                    "rooms": [
+                        "r18",
+                        "r03",
+                        "r02",
+                        "r05"
+                    ],
+                    "shift": "night",
+                    "day": 14
+                },
+                {
+                    "rooms": [
+                        "r05",
+                        "r03",
+                        "r00"
+                    ],
+                    "shift": "early",
+                    "day": 16
+                },
+                {
+                    "rooms": [
+                        "r00",
+                        "r05"
+                    ],
+                    "shift": "late",
+                    "day": 18
+                },
+                {
+                    "rooms": [
+                        "r00",
+                        "r06"
+                    ],
+                    "shift": "late",
+                    "day": 19
+                }
+            ],
+            "id": "n012"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": [
+                        "r05",
+                        "r15"
+                    ],
+                    "shift": "late",
+                    "day": 0
+                },
+                {
+                    "rooms": ["r05"],
+                    "shift": "night",
+                    "day": 1
+                },
+                {
+                    "rooms": ["r05"],
+                    "shift": "early",
+                    "day": 3
+                },
+                {
+                    "rooms": ["r05"],
+                    "shift": "night",
+                    "day": 4
+                },
+                {
+                    "rooms": ["r05"],
+                    "shift": "late",
+                    "day": 6
+                },
+                {
+                    "rooms": [
+                        "r07",
+                        "r12",
+                        "r01",
+                        "r05"
+                    ],
+                    "shift": "night",
+                    "day": 7
+                },
+                {
+                    "rooms": ["r11"],
+                    "shift": "late",
+                    "day": 9
+                },
+                {
+                    "rooms": ["r11"],
+                    "shift": "late",
+                    "day": 10
+                },
+                {
+                    "rooms": [
+                        "r01",
+                        "r11",
+                        "r20"
+                    ],
+                    "shift": "early",
+                    "day": 12
+                },
+                {
+                    "rooms": [
+                        "r08",
+                        "r05",
+                        "r11",
+                        "r12"
+                    ],
+                    "shift": "early",
+                    "day": 13
+                },
+                {
+                    "rooms": ["r08"],
+                    "shift": "late",
+                    "day": 14
+                },
+                {
+                    "rooms": [
+                        "r12",
+                        "r05"
+                    ],
+                    "shift": "late",
+                    "day": 15
+                },
+                {
+                    "rooms": [
+                        "r05",
+                        "r15"
+                    ],
+                    "shift": "late",
+                    "day": 16
+                },
+                {
+                    "rooms": [
+                        "r04",
+                        "r15",
+                        "r12"
+                    ],
+                    "shift": "night",
+                    "day": 17
+                },
+                {
+                    "rooms": [
+                        "r17",
+                        "r12",
+                        "r14"
+                    ],
+                    "shift": "early",
+                    "day": 19
+                },
+                {
+                    "rooms": ["r17"],
+                    "shift": "late",
+                    "day": 20
+                }
+            ],
+            "id": "n013"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": [
+                        "r19",
+                        "r18"
+                    ],
+                    "shift": "night",
+                    "day": 0
+                },
+                {
+                    "rooms": [
+                        "r20",
+                        "r18",
+                        "r10",
+                        "r03",
+                        "r19"
+                    ],
+                    "shift": "night",
+                    "day": 1
+                },
+                {
+                    "rooms": [
+                        "r18",
+                        "r03",
+                        "r10"
+                    ],
+                    "shift": "night",
+                    "day": 2
+                },
+                {
+                    "rooms": [
+                        "r10",
+                        "r18"
+                    ],
+                    "shift": "early",
+                    "day": 4
+                },
+                {
+                    "rooms": ["r10"],
+                    "shift": "early",
+                    "day": 5
+                },
+                {
+                    "rooms": ["r10"],
+                    "shift": "early",
+                    "day": 6
+                },
+                {
+                    "rooms": ["r06"],
+                    "shift": "early",
+                    "day": 8
+                },
+                {
+                    "rooms": ["r13"],
+                    "shift": "late",
+                    "day": 9
+                },
+                {
+                    "rooms": [
+                        "r18",
+                        "r13"
+                    ],
+                    "shift": "late",
+                    "day": 10
+                },
+                {
+                    "rooms": ["r18"],
+                    "shift": "late",
+                    "day": 11
+                },
+                {
+                    "rooms": ["r18"],
+                    "shift": "late",
+                    "day": 12
+                },
+                {
+                    "rooms": [
+                        "r09",
+                        "r00",
+                        "r18"
+                    ],
+                    "shift": "late",
+                    "day": 13
+                },
+                {
+                    "rooms": [
+                        "r20",
+                        "r09",
+                        "r13",
+                        "r00"
+                    ],
+                    "shift": "night",
+                    "day": 14
+                },
+                {
+                    "rooms": [
+                        "r00",
+                        "r20",
+                        "r17"
+                    ],
+                    "shift": "late",
+                    "day": 16
+                },
+                {
+                    "rooms": ["r20"],
+                    "shift": "late",
+                    "day": 17
+                },
+                {
+                    "rooms": ["r17"],
+                    "shift": "late",
+                    "day": 18
+                },
+                {
+                    "rooms": [
+                        "r12",
+                        "r18"
+                    ],
+                    "shift": "late",
+                    "day": 19
+                },
+                {
+                    "rooms": [
+                        "r10",
+                        "r18"
+                    ],
+                    "shift": "late",
+                    "day": 20
+                }
+            ],
+            "id": "n014"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": [
+                        "r10",
+                        "r20",
+                        "r00"
+                    ],
+                    "shift": "night",
+                    "day": 0
+                },
+                {
+                    "rooms": ["r00"],
+                    "shift": "night",
+                    "day": 1
+                },
+                {
+                    "rooms": [
+                        "r02",
+                        "r01",
+                        "r09",
+                        "r00"
+                    ],
+                    "shift": "night",
+                    "day": 2
+                },
+                {
+                    "rooms": ["r01"],
+                    "shift": "night",
+                    "day": 3
+                },
+                {
+                    "rooms": ["r03"],
+                    "shift": "early",
+                    "day": 5
+                },
+                {
+                    "rooms": ["r03"],
+                    "shift": "early",
+                    "day": 6
+                },
+                {
+                    "rooms": ["r03"],
+                    "shift": "late",
+                    "day": 7
+                },
+                {
+                    "rooms": [
+                        "r07",
+                        "r03"
+                    ],
+                    "shift": "late",
+                    "day": 8
+                },
+                {
+                    "rooms": [
+                        "r07",
+                        "r10"
+                    ],
+                    "shift": "late",
+                    "day": 9
+                },
+                {
+                    "rooms": [
+                        "r07",
+                        "r10"
+                    ],
+                    "shift": "late",
+                    "day": 10
+                },
+                {
+                    "rooms": [
+                        "r07",
+                        "r10",
+                        "r17"
+                    ],
+                    "shift": "night",
+                    "day": 11
+                },
+                {
+                    "rooms": ["r07"],
+                    "shift": "early",
+                    "day": 13
+                },
+                {
+                    "rooms": ["r07"],
+                    "shift": "late",
+                    "day": 14
+                },
+                {
+                    "rooms": ["r07"],
+                    "shift": "night",
+                    "day": 15
+                },
+                {
+                    "rooms": [
+                        "r06",
+                        "r17",
+                        "r07"
+                    ],
+                    "shift": "early",
+                    "day": 17
+                },
+                {
+                    "rooms": ["r15"],
+                    "shift": "early",
+                    "day": 18
+                },
+                {
+                    "rooms": [
+                        "r15",
+                        "r20",
+                        "r19",
+                        "r08"
+                    ],
+                    "shift": "night",
+                    "day": 19
+                },
+                {
+                    "rooms": ["r15"],
+                    "shift": "night",
+                    "day": 20
+                }
+            ],
+            "id": "n015"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": [
+                        "r05",
+                        "r02"
+                    ],
+                    "shift": "night",
+                    "day": 0
+                },
+                {
+                    "rooms": [
+                        "r14",
+                        "r02"
+                    ],
+                    "shift": "night",
+                    "day": 1
+                },
+                {
+                    "rooms": ["r14"],
+                    "shift": "early",
+                    "day": 3
+                },
+                {
+                    "rooms": [
+                        "r13",
+                        "r14"
+                    ],
+                    "shift": "early",
+                    "day": 4
+                },
+                {
+                    "rooms": [
+                        "r14",
+                        "r13",
+                        "r04"
+                    ],
+                    "shift": "night",
+                    "day": 5
+                },
+                {
+                    "rooms": [
+                        "r07",
+                        "r02"
+                    ],
+                    "shift": "early",
+                    "day": 7
+                },
+                {
+                    "rooms": [
+                        "r02",
+                        "r07"
+                    ],
+                    "shift": "early",
+                    "day": 8
+                },
+                {
+                    "rooms": ["r14"],
+                    "shift": "early",
+                    "day": 9
+                },
+                {
+                    "rooms": [
+                        "r08",
+                        "r14"
+                    ],
+                    "shift": "late",
+                    "day": 10
+                },
+                {
+                    "rooms": ["r08"],
+                    "shift": "night",
+                    "day": 11
+                },
+                {
+                    "rooms": [
+                        "r20",
+                        "r14",
+                        "r05"
+                    ],
+                    "shift": "night",
+                    "day": 12
+                },
+                {
+                    "rooms": [
+                        "r07",
+                        "r05"
+                    ],
+                    "shift": "early",
+                    "day": 14
+                },
+                {
+                    "rooms": ["r07"],
+                    "shift": "early",
+                    "day": 15
+                },
+                {
+                    "rooms": ["r07"],
+                    "shift": "early",
+                    "day": 16
+                },
+                {
+                    "rooms": ["r05"],
+                    "shift": "early",
+                    "day": 17
+                },
+                {
+                    "rooms": ["r05"],
+                    "shift": "early",
+                    "day": 18
+                },
+                {
+                    "rooms": ["r06"],
+                    "shift": "early",
+                    "day": 19
+                },
+                {
+                    "rooms": ["r06"],
+                    "shift": "early",
+                    "day": 20
+                }
+            ],
+            "id": "n016"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": [
+                        "r17",
+                        "r11",
+                        "r12"
+                    ],
+                    "shift": "night",
+                    "day": 0
+                },
+                {
+                    "rooms": [
+                        "r11",
+                        "r12",
+                        "r15",
+                        "r07"
+                    ],
+                    "shift": "night",
+                    "day": 1
+                },
+                {
+                    "rooms": ["r17"],
+                    "shift": "early",
+                    "day": 3
+                },
+                {
+                    "rooms": ["r17"],
+                    "shift": "late",
+                    "day": 4
+                },
+                {
+                    "rooms": ["r17"],
+                    "shift": "late",
+                    "day": 5
+                },
+                {
+                    "rooms": [
+                        "r01",
+                        "r02"
+                    ],
+                    "shift": "night",
+                    "day": 6
+                },
+                {
+                    "rooms": [
+                        "r13",
+                        "r04",
+                        "r16"
+                    ],
+                    "shift": "early",
+                    "day": 8
+                },
+                {
+                    "rooms": ["r16"],
+                    "shift": "early",
+                    "day": 9
+                },
+                {
+                    "rooms": [
+                        "r15",
+                        "r20"
+                    ],
+                    "shift": "early",
+                    "day": 11
+                },
+                {
+                    "rooms": ["r04"],
+                    "shift": "early",
+                    "day": 12
+                },
+                {
+                    "rooms": [
+                        "r15",
+                        "r12"
+                    ],
+                    "shift": "night",
+                    "day": 13
+                },
+                {
+                    "rooms": ["r13"],
+                    "shift": "early",
+                    "day": 15
+                },
+                {
+                    "rooms": ["r16"],
+                    "shift": "night",
+                    "day": 16
+                },
+                {
+                    "rooms": ["r10"],
+                    "shift": "night",
+                    "day": 17
+                },
+                {
+                    "rooms": ["r10"],
+                    "shift": "night",
+                    "day": 18
+                },
+                {
+                    "rooms": [
+                        "r06",
+                        "r08"
+                    ],
+                    "shift": "night",
+                    "day": 20
+                }
+            ],
+            "id": "n017"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": ["r16"],
+                    "shift": "night",
+                    "day": 0
+                },
+                {
+                    "rooms": [
+                        "r08",
+                        "r16"
+                    ],
+                    "shift": "night",
+                    "day": 1
+                },
+                {
+                    "rooms": [
+                        "r08",
+                        "r16",
+                        "r20"
+                    ],
+                    "shift": "night",
+                    "day": 2
+                },
+                {
+                    "rooms": [
+                        "r16",
+                        "r03"
+                    ],
+                    "shift": "night",
+                    "day": 3
+                },
+                {
+                    "rooms": [
+                        "r19",
+                        "r03",
+                        "r12"
+                    ],
+                    "shift": "night",
+                    "day": 4
+                },
+                {
+                    "rooms": [
+                        "r19",
+                        "r12",
+                        "r03"
+                    ],
+                    "shift": "night",
+                    "day": 5
+                },
+                {
+                    "rooms": ["r03"],
+                    "shift": "night",
+                    "day": 6
+                },
+                {
+                    "rooms": [
+                        "r14",
+                        "r18",
+                        "r05",
+                        "r04"
+                    ],
+                    "shift": "late",
+                    "day": 9
+                },
+                {
+                    "rooms": [
+                        "r14",
+                        "r18",
+                        "r04"
+                    ],
+                    "shift": "night",
+                    "day": 10
+                },
+                {
+                    "rooms": ["r14"],
+                    "shift": "night",
+                    "day": 11
+                },
+                {
+                    "rooms": ["r14"],
+                    "shift": "late",
+                    "day": 13
+                },
+                {
+                    "rooms": ["r01"],
+                    "shift": "late",
+                    "day": 14
+                },
+                {
+                    "rooms": ["r01"],
+                    "shift": "early",
+                    "day": 16
+                },
+                {
+                    "rooms": ["r16"],
+                    "shift": "late",
+                    "day": 17
+                },
+                {
+                    "rooms": ["r16"],
+                    "shift": "night",
+                    "day": 18
+                },
+                {
+                    "rooms": [
+                        "r16",
+                        "r07",
+                        "r03",
+                        "r17",
+                        "r10"
+                    ],
+                    "shift": "night",
+                    "day": 19
+                }
+            ],
+            "id": "n018"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": [
+                        "r06",
+                        "r13"
+                    ],
+                    "shift": "night",
+                    "day": 0
+                },
+                {
+                    "rooms": ["r13"],
+                    "shift": "night",
+                    "day": 1
+                },
+                {
+                    "rooms": [
+                        "r19",
+                        "r15",
+                        "r13",
+                        "r04",
+                        "r20"
+                    ],
+                    "shift": "early",
+                    "day": 3
+                },
+                {
+                    "rooms": [
+                        "r00",
+                        "r17",
+                        "r15"
+                    ],
+                    "shift": "early",
+                    "day": 4
+                },
+                {
+                    "rooms": [
+                        "r15",
+                        "r10"
+                    ],
+                    "shift": "late",
+                    "day": 5
+                },
+                {
+                    "rooms": [
+                        "r07",
+                        "r01",
+                        "r10",
+                        "r15"
+                    ],
+                    "shift": "late",
+                    "day": 6
+                },
+                {
+                    "rooms": ["r17"],
+                    "shift": "late",
+                    "day": 7
+                },
+                {
+                    "rooms": [
+                        "r07",
+                        "r19",
+                        "r17"
+                    ],
+                    "shift": "night",
+                    "day": 8
+                },
+                {
+                    "rooms": [
+                        "r19",
+                        "r06",
+                        "r07"
+                    ],
+                    "shift": "night",
+                    "day": 9
+                },
+                {
+                    "rooms": ["r07"],
+                    "shift": "night",
+                    "day": 10
+                },
+                {
+                    "rooms": ["r07"],
+                    "shift": "early",
+                    "day": 12
+                },
+                {
+                    "rooms": [
+                        "r03",
+                        "r17",
+                        "r07"
+                    ],
+                    "shift": "late",
+                    "day": 13
+                },
+                {
+                    "rooms": ["r17"],
+                    "shift": "early",
+                    "day": 15
+                },
+                {
+                    "rooms": [
+                        "r17",
+                        "r04",
+                        "r14"
+                    ],
+                    "shift": "early",
+                    "day": 16
+                },
+                {
+                    "rooms": ["r14"],
+                    "shift": "early",
+                    "day": 17
+                },
+                {
+                    "rooms": [
+                        "r14",
+                        "r18"
+                    ],
+                    "shift": "early",
+                    "day": 18
+                },
+                {
+                    "rooms": ["r18"],
+                    "shift": "early",
+                    "day": 19
+                },
+                {
+                    "rooms": [
+                        "r18",
+                        "r07"
+                    ],
+                    "shift": "night",
+                    "day": 20
+                }
+            ],
+            "id": "n019"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": [
+                        "r14",
+                        "r08",
+                        "r15",
+                        "r03"
+                    ],
+                    "shift": "night",
+                    "day": 0
+                },
+                {
+                    "rooms": [
+                        "r00",
+                        "r03"
+                    ],
+                    "shift": "late",
+                    "day": 2
+                },
+                {
+                    "rooms": ["r00"],
+                    "shift": "late",
+                    "day": 3
+                },
+                {
+                    "rooms": ["r14"],
+                    "shift": "late",
+                    "day": 4
+                },
+                {
+                    "rooms": ["r02"],
+                    "shift": "late",
+                    "day": 6
+                },
+                {
+                    "rooms": ["r04"],
+                    "shift": "late",
+                    "day": 8
+                },
+                {
+                    "rooms": [
+                        "r14",
+                        "r08"
+                    ],
+                    "shift": "night",
+                    "day": 9
+                },
+                {
+                    "rooms": [
+                        "r14",
+                        "r08"
+                    ],
+                    "shift": "late",
+                    "day": 11
+                },
+                {
+                    "rooms": ["r04"],
+                    "shift": "late",
+                    "day": 12
+                },
+                {
+                    "rooms": ["r08"],
+                    "shift": "late",
+                    "day": 13
+                },
+                {
+                    "rooms": [
+                        "r16",
+                        "r08",
+                        "r01",
+                        "r19"
+                    ],
+                    "shift": "night",
+                    "day": 14
+                },
+                {
+                    "rooms": [
+                        "r08",
+                        "r19"
+                    ],
+                    "shift": "early",
+                    "day": 16
+                },
+                {
+                    "rooms": [
+                        "r01",
+                        "r08"
+                    ],
+                    "shift": "night",
+                    "day": 17
+                },
+                {
+                    "rooms": ["r08"],
+                    "shift": "night",
+                    "day": 18
+                },
+                {
+                    "rooms": ["r14"],
+                    "shift": "late",
+                    "day": 20
+                }
+            ],
+            "id": "n020"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": ["r01"],
+                    "shift": "night",
+                    "day": 0
+                },
+                {
+                    "rooms": [
+                        "r17",
+                        "r09",
+                        "r01",
+                        "r06"
+                    ],
+                    "shift": "night",
+                    "day": 1
+                },
+                {
+                    "rooms": ["r17"],
+                    "shift": "night",
+                    "day": 2
+                },
+                {
+                    "rooms": [
+                        "r00",
+                        "r19",
+                        "r15",
+                        "r09",
+                        "r17"
+                    ],
+                    "shift": "night",
+                    "day": 3
+                },
+                {
+                    "rooms": [
+                        "r16",
+                        "r09"
+                    ],
+                    "shift": "early",
+                    "day": 5
+                },
+                {
+                    "rooms": [
+                        "r06",
+                        "r16"
+                    ],
+                    "shift": "late",
+                    "day": 6
+                },
+                {
+                    "rooms": [
+                        "r19",
+                        "r16",
+                        "r18"
+                    ],
+                    "shift": "night",
+                    "day": 7
+                },
+                {
+                    "rooms": [
+                        "r10",
+                        "r12",
+                        "r19"
+                    ],
+                    "shift": "early",
+                    "day": 9
+                },
+                {
+                    "rooms": [
+                        "r19",
+                        "r05",
+                        "r12",
+                        "r10"
+                    ],
+                    "shift": "early",
+                    "day": 10
+                },
+                {
+                    "rooms": [
+                        "r12",
+                        "r05",
+                        "r19"
+                    ],
+                    "shift": "early",
+                    "day": 11
+                },
+                {
+                    "rooms": ["r09"],
+                    "shift": "late",
+                    "day": 12
+                },
+                {
+                    "rooms": [
+                        "r17",
+                        "r12",
+                        "r03"
+                    ],
+                    "shift": "late",
+                    "day": 14
+                },
+                {
+                    "rooms": ["r17"],
+                    "shift": "late",
+                    "day": 15
+                },
+                {
+                    "rooms": ["r12"],
+                    "shift": "late",
+                    "day": 16
+                },
+                {
+                    "rooms": ["r17"],
+                    "shift": "late",
+                    "day": 17
+                },
+                {
+                    "rooms": ["r05"],
+                    "shift": "late",
+                    "day": 19
+                },
+                {
+                    "rooms": ["r05"],
+                    "shift": "late",
+                    "day": 20
+                }
+            ],
+            "id": "n021"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": [
+                        "r07",
+                        "r09",
+                        "r04"
+                    ],
+                    "shift": "night",
+                    "day": 0
+                },
+                {
+                    "rooms": ["r07"],
+                    "shift": "early",
+                    "day": 2
+                },
+                {
+                    "rooms": ["r03"],
+                    "shift": "early",
+                    "day": 3
+                },
+                {
+                    "rooms": [
+                        "r16",
+                        "r07",
+                        "r03"
+                    ],
+                    "shift": "early",
+                    "day": 4
+                },
+                {
+                    "rooms": ["r16"],
+                    "shift": "early",
+                    "day": 6
+                },
+                {
+                    "rooms": ["r17"],
+                    "shift": "early",
+                    "day": 8
+                },
+                {
+                    "rooms": [
+                        "r11",
+                        "r04"
+                    ],
+                    "shift": "early",
+                    "day": 9
+                },
+                {
+                    "rooms": [
+                        "r11",
+                        "r09",
+                        "r17",
+                        "r14"
+                    ],
+                    "shift": "early",
+                    "day": 10
+                },
+                {
+                    "rooms": [
+                        "r04",
+                        "r14",
+                        "r11"
+                    ],
+                    "shift": "early",
+                    "day": 11
+                },
+                {
+                    "rooms": ["r14"],
+                    "shift": "early",
+                    "day": 12
+                },
+                {
+                    "rooms": ["r00"],
+                    "shift": "early",
+                    "day": 14
+                },
+                {
+                    "rooms": [
+                        "r00",
+                        "r10",
+                        "r20",
+                        "r19"
+                    ],
+                    "shift": "early",
+                    "day": 15
+                },
+                {
+                    "rooms": ["r10"],
+                    "shift": "late",
+                    "day": 16
+                },
+                {
+                    "rooms": ["r10"],
+                    "shift": "late",
+                    "day": 17
+                },
+                {
+                    "rooms": ["r13"],
+                    "shift": "late",
+                    "day": 18
+                },
+                {
+                    "rooms": ["r13"],
+                    "shift": "night",
+                    "day": 19
+                }
+            ],
+            "id": "n022"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": ["r20"],
+                    "shift": "early",
+                    "day": 1
+                },
+                {
+                    "rooms": ["r09"],
+                    "shift": "early",
+                    "day": 2
+                },
+                {
+                    "rooms": ["r09"],
+                    "shift": "early",
+                    "day": 3
+                },
+                {
+                    "rooms": ["r09"],
+                    "shift": "early",
+                    "day": 4
+                },
+                {
+                    "rooms": ["r09"],
+                    "shift": "late",
+                    "day": 5
+                },
+                {
+                    "rooms": ["r08"],
+                    "shift": "late",
+                    "day": 6
+                },
+                {
+                    "rooms": [
+                        "r09",
+                        "r06"
+                    ],
+                    "shift": "late",
+                    "day": 7
+                },
+                {
+                    "rooms": [
+                        "r06",
+                        "r18",
+                        "r09",
+                        "r11"
+                    ],
+                    "shift": "late",
+                    "day": 8
+                },
+                {
+                    "rooms": [
+                        "r06",
+                        "r09"
+                    ],
+                    "shift": "late",
+                    "day": 9
+                },
+                {
+                    "rooms": ["r00"],
+                    "shift": "late",
+                    "day": 11
+                },
+                {
+                    "rooms": [
+                        "r00",
+                        "r20"
+                    ],
+                    "shift": "early",
+                    "day": 13
+                },
+                {
+                    "rooms": [
+                        "r19",
+                        "r20",
+                        "r11"
+                    ],
+                    "shift": "early",
+                    "day": 14
+                },
+                {
+                    "rooms": [
+                        "r19",
+                        "r11"
+                    ],
+                    "shift": "late",
+                    "day": 15
+                },
+                {
+                    "rooms": ["r11"],
+                    "shift": "late",
+                    "day": 16
+                },
+                {
+                    "rooms": [
+                        "r11",
+                        "r09",
+                        "r19",
+                        "r13"
+                    ],
+                    "shift": "late",
+                    "day": 17
+                },
+                {
+                    "rooms": [
+                        "r04",
+                        "r11"
+                    ],
+                    "shift": "night",
+                    "day": 18
+                },
+                {
+                    "rooms": ["r04"],
+                    "shift": "late",
+                    "day": 20
+                }
+            ],
+            "id": "n023"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": [
+                        "r18",
+                        "r17",
+                        "r20",
+                        "r02"
+                    ],
+                    "shift": "early",
+                    "day": 0
+                },
+                {
+                    "rooms": [
+                        "r02",
+                        "r18"
+                    ],
+                    "shift": "early",
+                    "day": 1
+                },
+                {
+                    "rooms": [
+                        "r04",
+                        "r02"
+                    ],
+                    "shift": "late",
+                    "day": 2
+                },
+                {
+                    "rooms": ["r17"],
+                    "shift": "late",
+                    "day": 3
+                },
+                {
+                    "rooms": [
+                        "r00",
+                        "r01"
+                    ],
+                    "shift": "night",
+                    "day": 4
+                },
+                {
+                    "rooms": ["r05"],
+                    "shift": "early",
+                    "day": 6
+                },
+                {
+                    "rooms": ["r05"],
+                    "shift": "early",
+                    "day": 7
+                },
+                {
+                    "rooms": [
+                        "r04",
+                        "r05"
+                    ],
+                    "shift": "night",
+                    "day": 8
+                },
+                {
+                    "rooms": ["r04"],
+                    "shift": "late",
+                    "day": 10
+                },
+                {
+                    "rooms": ["r04"],
+                    "shift": "night",
+                    "day": 11
+                },
+                {
+                    "rooms": ["r04"],
+                    "shift": "late",
+                    "day": 13
+                },
+                {
+                    "rooms": ["r12"],
+                    "shift": "night",
+                    "day": 14
+                },
+                {
+                    "rooms": ["r12"],
+                    "shift": "night",
+                    "day": 16
+                },
+                {
+                    "rooms": [
+                        "r11",
+                        "r07"
+                    ],
+                    "shift": "late",
+                    "day": 18
+                },
+                {
+                    "rooms": [
+                        "r08",
+                        "r17"
+                    ],
+                    "shift": "early",
+                    "day": 20
+                }
+            ],
+            "id": "n024"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": ["r19"],
+                    "shift": "early",
+                    "day": 0
+                },
+                {
+                    "rooms": [
+                        "r14",
+                        "r19",
+                        "r09",
+                        "r15",
+                        "r12"
+                    ],
+                    "shift": "late",
+                    "day": 1
+                },
+                {
+                    "rooms": [
+                        "r05",
+                        "r19",
+                        "r14"
+                    ],
+                    "shift": "night",
+                    "day": 2
+                },
+                {
+                    "rooms": ["r05"],
+                    "shift": "night",
+                    "day": 3
+                },
+                {
+                    "rooms": ["r14"],
+                    "shift": "night",
+                    "day": 4
+                },
+                {
+                    "rooms": [
+                        "r08",
+                        "r05"
+                    ],
+                    "shift": "night",
+                    "day": 5
+                },
+                {
+                    "rooms": ["r05"],
+                    "shift": "night",
+                    "day": 6
+                },
+                {
+                    "rooms": [
+                        "r00",
+                        "r14",
+                        "r05",
+                        "r10"
+                    ],
+                    "shift": "early",
+                    "day": 8
+                },
+                {
+                    "rooms": ["r00"],
+                    "shift": "late",
+                    "day": 9
+                },
+                {
+                    "rooms": ["r20"],
+                    "shift": "night",
+                    "day": 10
+                },
+                {
+                    "rooms": ["r20"],
+                    "shift": "night",
+                    "day": 11
+                },
+                {
+                    "rooms": ["r00"],
+                    "shift": "night",
+                    "day": 13
+                },
+                {
+                    "rooms": [
+                        "r03",
+                        "r01",
+                        "r14"
+                    ],
+                    "shift": "late",
+                    "day": 15
+                },
+                {
+                    "rooms": [
+                        "r03",
+                        "r14",
+                        "r20",
+                        "r06"
+                    ],
+                    "shift": "night",
+                    "day": 16
+                },
+                {
+                    "rooms": [
+                        "r14",
+                        "r20"
+                    ],
+                    "shift": "night",
+                    "day": 17
+                },
+                {
+                    "rooms": [
+                        "r03",
+                        "r20",
+                        "r14",
+                        "r00"
+                    ],
+                    "shift": "night",
+                    "day": 18
+                },
+                {
+                    "rooms": ["r00"],
+                    "shift": "night",
+                    "day": 19
+                },
+                {
+                    "rooms": [
+                        "r12",
+                        "r16",
+                        "r19",
+                        "r03",
+                        "r00"
+                    ],
+                    "shift": "night",
+                    "day": 20
+                }
+            ],
+            "id": "n025"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": ["r06"],
+                    "shift": "early",
+                    "day": 0
+                },
+                {
+                    "rooms": [
+                        "r13",
+                        "r08"
+                    ],
+                    "shift": "late",
+                    "day": 1
+                },
+                {
+                    "rooms": ["r13"],
+                    "shift": "night",
+                    "day": 2
+                },
+                {
+                    "rooms": [
+                        "r08",
+                        "r13"
+                    ],
+                    "shift": "night",
+                    "day": 3
+                },
+                {
+                    "rooms": [
+                        "r00",
+                        "r13"
+                    ],
+                    "shift": "early",
+                    "day": 5
+                },
+                {
+                    "rooms": ["r13"],
+                    "shift": "early",
+                    "day": 6
+                },
+                {
+                    "rooms": ["r20"],
+                    "shift": "early",
+                    "day": 7
+                },
+                {
+                    "rooms": ["r01"],
+                    "shift": "late",
+                    "day": 8
+                },
+                {
+                    "rooms": ["r20"],
+                    "shift": "late",
+                    "day": 9
+                },
+                {
+                    "rooms": [
+                        "r06",
+                        "r10",
+                        "r11",
+                        "r09"
+                    ],
+                    "shift": "night",
+                    "day": 10
+                },
+                {
+                    "rooms": [
+                        "r18",
+                        "r19",
+                        "r09"
+                    ],
+                    "shift": "night",
+                    "day": 11
+                },
+                {
+                    "rooms": [
+                        "r09",
+                        "r18"
+                    ],
+                    "shift": "early",
+                    "day": 13
+                },
+                {
+                    "rooms": ["r09"],
+                    "shift": "late",
+                    "day": 14
+                },
+                {
+                    "rooms": [
+                        "r07",
+                        "r09"
+                    ],
+                    "shift": "late",
+                    "day": 15
+                },
+                {
+                    "rooms": [
+                        "r13",
+                        "r18",
+                        "r06",
+                        "r07",
+                        "r02",
+                        "r16"
+                    ],
+                    "shift": "late",
+                    "day": 16
+                },
+                {
+                    "rooms": ["r02"],
+                    "shift": "late",
+                    "day": 17
+                },
+                {
+                    "rooms": ["r02"],
+                    "shift": "night",
+                    "day": 18
+                },
+                {
+                    "rooms": ["r16"],
+                    "shift": "late",
+                    "day": 20
+                }
+            ],
+            "id": "n026"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": [
+                        "r06",
+                        "r12",
+                        "r15"
+                    ],
+                    "shift": "early",
+                    "day": 1
+                },
+                {
+                    "rooms": [
+                        "r12",
+                        "r16",
+                        "r10",
+                        "r09",
+                        "r01"
+                    ],
+                    "shift": "late",
+                    "day": 2
+                },
+                {
+                    "rooms": [
+                        "r01",
+                        "r05"
+                    ],
+                    "shift": "late",
+                    "day": 3
+                },
+                {
+                    "rooms": ["r05"],
+                    "shift": "late",
+                    "day": 4
+                },
+                {
+                    "rooms": [
+                        "r11",
+                        "r00",
+                        "r15",
+                        "r04"
+                    ],
+                    "shift": "early",
+                    "day": 6
+                },
+                {
+                    "rooms": [
+                        "r10",
+                        "r08",
+                        "r15",
+                        "r13"
+                    ],
+                    "shift": "night",
+                    "day": 7
+                },
+                {
+                    "rooms": [
+                        "r08",
+                        "r10"
+                    ],
+                    "shift": "night",
+                    "day": 8
+                },
+                {
+                    "rooms": [
+                        "r05",
+                        "r10",
+                        "r15"
+                    ],
+                    "shift": "night",
+                    "day": 9
+                },
+                {
+                    "rooms": ["r10"],
+                    "shift": "late",
+                    "day": 11
+                },
+                {
+                    "rooms": ["r16"],
+                    "shift": "late",
+                    "day": 12
+                },
+                {
+                    "rooms": [
+                        "r10",
+                        "r16",
+                        "r01",
+                        "r02"
+                    ],
+                    "shift": "night",
+                    "day": 13
+                },
+                {
+                    "rooms": [
+                        "r18",
+                        "r04"
+                    ],
+                    "shift": "late",
+                    "day": 15
+                },
+                {
+                    "rooms": [
+                        "r00",
+                        "r13"
+                    ],
+                    "shift": "night",
+                    "day": 16
+                },
+                {
+                    "rooms": [
+                        "r00",
+                        "r16",
+                        "r13",
+                        "r06"
+                    ],
+                    "shift": "night",
+                    "day": 17
+                },
+                {
+                    "rooms": [
+                        "r06",
+                        "r13",
+                        "r15"
+                    ],
+                    "shift": "night",
+                    "day": 18
+                },
+                {
+                    "rooms": [
+                        "r06",
+                        "r13"
+                    ],
+                    "shift": "late",
+                    "day": 20
+                }
+            ],
+            "id": "n027"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": [
+                        "r07",
+                        "r16"
+                    ],
+                    "shift": "early",
+                    "day": 1
+                },
+                {
+                    "rooms": [
+                        "r16",
+                        "r10"
+                    ],
+                    "shift": "early",
+                    "day": 2
+                },
+                {
+                    "rooms": [
+                        "r08",
+                        "r02"
+                    ],
+                    "shift": "early",
+                    "day": 4
+                },
+                {
+                    "rooms": ["r02"],
+                    "shift": "early",
+                    "day": 5
+                },
+                {
+                    "rooms": [
+                        "r19",
+                        "r09"
+                    ],
+                    "shift": "early",
+                    "day": 6
+                },
+                {
+                    "rooms": ["r09"],
+                    "shift": "early",
+                    "day": 7
+                },
+                {
+                    "rooms": [
+                        "r18",
+                        "r09",
+                        "r11"
+                    ],
+                    "shift": "early",
+                    "day": 8
+                },
+                {
+                    "rooms": [
+                        "r18",
+                        "r05"
+                    ],
+                    "shift": "early",
+                    "day": 9
+                },
+                {
+                    "rooms": ["r18"],
+                    "shift": "early",
+                    "day": 10
+                },
+                {
+                    "rooms": [
+                        "r15",
+                        "r09",
+                        "r13"
+                    ],
+                    "shift": "late",
+                    "day": 11
+                },
+                {
+                    "rooms": [
+                        "r10",
+                        "r15",
+                        "r09",
+                        "r01",
+                        "r13"
+                    ],
+                    "shift": "night",
+                    "day": 12
+                },
+                {
+                    "rooms": [
+                        "r09",
+                        "r18",
+                        "r19"
+                    ],
+                    "shift": "night",
+                    "day": 13
+                },
+                {
+                    "rooms": [
+                        "r15",
+                        "r04",
+                        "r11",
+                        "r14"
+                    ],
+                    "shift": "night",
+                    "day": 14
+                },
+                {
+                    "rooms": [
+                        "r11",
+                        "r09"
+                    ],
+                    "shift": "night",
+                    "day": 15
+                },
+                {
+                    "rooms": [
+                        "r18",
+                        "r15",
+                        "r11"
+                    ],
+                    "shift": "night",
+                    "day": 16
+                },
+                {
+                    "rooms": ["r11"],
+                    "shift": "night",
+                    "day": 17
+                },
+                {
+                    "rooms": [
+                        "r01",
+                        "r09"
+                    ],
+                    "shift": "night",
+                    "day": 18
+                },
+                {
+                    "rooms": [
+                        "r01",
+                        "r11",
+                        "r09"
+                    ],
+                    "shift": "night",
+                    "day": 19
+                },
+                {
+                    "rooms": [
+                        "r01",
+                        "r09"
+                    ],
+                    "shift": "night",
+                    "day": 20
+                }
+            ],
+            "id": "n028"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": ["r11"],
+                    "shift": "early",
+                    "day": 1
+                },
+                {
+                    "rooms": ["r17"],
+                    "shift": "early",
+                    "day": 2
+                },
+                {
+                    "rooms": ["r10"],
+                    "shift": "early",
+                    "day": 3
+                },
+                {
+                    "rooms": [
+                        "r20",
+                        "r10"
+                    ],
+                    "shift": "late",
+                    "day": 4
+                },
+                {
+                    "rooms": [
+                        "r14",
+                        "r02"
+                    ],
+                    "shift": "early",
+                    "day": 6
+                },
+                {
+                    "rooms": [
+                        "r02",
+                        "r03"
+                    ],
+                    "shift": "night",
+                    "day": 7
+                },
+                {
+                    "rooms": [
+                        "r03",
+                        "r11",
+                        "r02",
+                        "r15",
+                        "r18",
+                        "r00"
+                    ],
+                    "shift": "night",
+                    "day": 8
+                },
+                {
+                    "rooms": [
+                        "r03",
+                        "r20"
+                    ],
+                    "shift": "night",
+                    "day": 9
+                },
+                {
+                    "rooms": [
+                        "r00",
+                        "r03",
+                        "r15",
+                        "r16"
+                    ],
+                    "shift": "night",
+                    "day": 10
+                },
+                {
+                    "rooms": [
+                        "r16",
+                        "r19"
+                    ],
+                    "shift": "early",
+                    "day": 12
+                },
+                {
+                    "rooms": [
+                        "r03",
+                        "r16",
+                        "r01"
+                    ],
+                    "shift": "early",
+                    "day": 13
+                },
+                {
+                    "rooms": ["r10"],
+                    "shift": "early",
+                    "day": 14
+                },
+                {
+                    "rooms": ["r10"],
+                    "shift": "late",
+                    "day": 15
+                },
+                {
+                    "rooms": [
+                        "r04",
+                        "r10"
+                    ],
+                    "shift": "night",
+                    "day": 16
+                },
+                {
+                    "rooms": ["r10"],
+                    "shift": "early",
+                    "day": 18
+                },
+                {
+                    "rooms": ["r20"],
+                    "shift": "late",
+                    "day": 19
+                }
+            ],
+            "id": "n029"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": ["r03"],
+                    "shift": "early",
+                    "day": 0
+                },
+                {
+                    "rooms": [
+                        "r13",
+                        "r01",
+                        "r03"
+                    ],
+                    "shift": "early",
+                    "day": 2
+                },
+                {
+                    "rooms": ["r11"],
+                    "shift": "early",
+                    "day": 3
+                },
+                {
+                    "rooms": [
+                        "r11",
+                        "r01"
+                    ],
+                    "shift": "early",
+                    "day": 4
+                },
+                {
+                    "rooms": ["r11"],
+                    "shift": "early",
+                    "day": 5
+                },
+                {
+                    "rooms": [
+                        "r18",
+                        "r08",
+                        "r17"
+                    ],
+                    "shift": "early",
+                    "day": 6
+                },
+                {
+                    "rooms": [
+                        "r17",
+                        "r18"
+                    ],
+                    "shift": "early",
+                    "day": 7
+                },
+                {
+                    "rooms": ["r17"],
+                    "shift": "late",
+                    "day": 8
+                },
+                {
+                    "rooms": [
+                        "r02",
+                        "r07"
+                    ],
+                    "shift": "early",
+                    "day": 10
+                },
+                {
+                    "rooms": ["r12"],
+                    "shift": "early",
+                    "day": 12
+                },
+                {
+                    "rooms": ["r02"],
+                    "shift": "early",
+                    "day": 13
+                },
+                {
+                    "rooms": ["r14"],
+                    "shift": "early",
+                    "day": 14
+                },
+                {
+                    "rooms": ["r02"],
+                    "shift": "late",
+                    "day": 15
+                },
+                {
+                    "rooms": ["r02"],
+                    "shift": "night",
+                    "day": 16
+                },
+                {
+                    "rooms": [
+                        "r07",
+                        "r02"
+                    ],
+                    "shift": "night",
+                    "day": 17
+                },
+                {
+                    "rooms": [
+                        "r08",
+                        "r02"
+                    ],
+                    "shift": "early",
+                    "day": 19
+                }
+            ],
+            "id": "n030"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": [
+                        "r09",
+                        "r14",
+                        "r08",
+                        "r00"
+                    ],
+                    "shift": "early",
+                    "day": 0
+                },
+                {
+                    "rooms": [
+                        "r02",
+                        "r20",
+                        "r04",
+                        "r12"
+                    ],
+                    "shift": "early",
+                    "day": 2
+                },
+                {
+                    "rooms": ["r04"],
+                    "shift": "late",
+                    "day": 3
+                },
+                {
+                    "rooms": [
+                        "r07",
+                        "r14",
+                        "r01"
+                    ],
+                    "shift": "early",
+                    "day": 5
+                },
+                {
+                    "rooms": ["r11"],
+                    "shift": "late",
+                    "day": 6
+                },
+                {
+                    "rooms": ["r15"],
+                    "shift": "late",
+                    "day": 7
+                },
+                {
+                    "rooms": ["r14"],
+                    "shift": "late",
+                    "day": 8
+                },
+                {
+                    "rooms": [
+                        "r15",
+                        "r12"
+                    ],
+                    "shift": "late",
+                    "day": 9
+                },
+                {
+                    "rooms": [
+                        "r15",
+                        "r06",
+                        "r12",
+                        "r05"
+                    ],
+                    "shift": "late",
+                    "day": 10
+                },
+                {
+                    "rooms": [
+                        "r06",
+                        "r05",
+                        "r12"
+                    ],
+                    "shift": "late",
+                    "day": 11
+                },
+                {
+                    "rooms": ["r06"],
+                    "shift": "night",
+                    "day": 12
+                },
+                {
+                    "rooms": [
+                        "r14",
+                        "r04",
+                        "r11"
+                    ],
+                    "shift": "night",
+                    "day": 13
+                },
+                {
+                    "rooms": ["r06"],
+                    "shift": "late",
+                    "day": 15
+                },
+                {
+                    "rooms": ["r09"],
+                    "shift": "night",
+                    "day": 16
+                },
+                {
+                    "rooms": ["r02"],
+                    "shift": "early",
+                    "day": 18
+                },
+                {
+                    "rooms": [
+                        "r19",
+                        "r09"
+                    ],
+                    "shift": "early",
+                    "day": 19
+                },
+                {
+                    "rooms": ["r09"],
+                    "shift": "early",
+                    "day": 20
+                }
+            ],
+            "id": "n031"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": [
+                        "r08",
+                        "r14"
+                    ],
+                    "shift": "early",
+                    "day": 1
+                },
+                {
+                    "rooms": [
+                        "r08",
+                        "r14"
+                    ],
+                    "shift": "early",
+                    "day": 2
+                },
+                {
+                    "rooms": ["r20"],
+                    "shift": "early",
+                    "day": 4
+                },
+                {
+                    "rooms": [
+                        "r06",
+                        "r20"
+                    ],
+                    "shift": "late",
+                    "day": 5
+                },
+                {
+                    "rooms": [
+                        "r14",
+                        "r06"
+                    ],
+                    "shift": "night",
+                    "day": 6
+                },
+                {
+                    "rooms": ["r06"],
+                    "shift": "night",
+                    "day": 7
+                },
+                {
+                    "rooms": ["r13"],
+                    "shift": "early",
+                    "day": 9
+                },
+                {
+                    "rooms": ["r13"],
+                    "shift": "early",
+                    "day": 10
+                },
+                {
+                    "rooms": ["r13"],
+                    "shift": "late",
+                    "day": 12
+                },
+                {
+                    "rooms": [
+                        "r17",
+                        "r20",
+                        "r08",
+                        "r07",
+                        "r13"
+                    ],
+                    "shift": "night",
+                    "day": 13
+                },
+                {
+                    "rooms": [
+                        "r07",
+                        "r17"
+                    ],
+                    "shift": "night",
+                    "day": 14
+                },
+                {
+                    "rooms": ["r17"],
+                    "shift": "night",
+                    "day": 15
+                },
+                {
+                    "rooms": [
+                        "r17",
+                        "r08",
+                        "r07"
+                    ],
+                    "shift": "night",
+                    "day": 16
+                },
+                {
+                    "rooms": [
+                        "r08",
+                        "r17"
+                    ],
+                    "shift": "early",
+                    "day": 18
+                },
+                {
+                    "rooms": [
+                        "r08",
+                        "r19"
+                    ],
+                    "shift": "late",
+                    "day": 19
+                },
+                {
+                    "rooms": [
+                        "r08",
+                        "r19",
+                        "r20"
+                    ],
+                    "shift": "late",
+                    "day": 20
+                }
+            ],
+            "id": "n032"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": ["r04"],
+                    "shift": "early",
+                    "day": 1
+                },
+                {
+                    "rooms": [
+                        "r16",
+                        "r07"
+                    ],
+                    "shift": "late",
+                    "day": 3
+                },
+                {
+                    "rooms": ["r16"],
+                    "shift": "late",
+                    "day": 4
+                },
+                {
+                    "rooms": [
+                        "r09",
+                        "r20"
+                    ],
+                    "shift": "late",
+                    "day": 6
+                },
+                {
+                    "rooms": [
+                        "r10",
+                        "r05",
+                        "r08"
+                    ],
+                    "shift": "late",
+                    "day": 7
+                },
+                {
+                    "rooms": [
+                        "r05",
+                        "r08"
+                    ],
+                    "shift": "late",
+                    "day": 8
+                },
+                {
+                    "rooms": ["r08"],
+                    "shift": "late",
+                    "day": 9
+                },
+                {
+                    "rooms": ["r08"],
+                    "shift": "night",
+                    "day": 10
+                },
+                {
+                    "rooms": [
+                        "r11",
+                        "r06"
+                    ],
+                    "shift": "late",
+                    "day": 12
+                },
+                {
+                    "rooms": ["r06"],
+                    "shift": "night",
+                    "day": 13
+                },
+                {
+                    "rooms": ["r06"],
+                    "shift": "night",
+                    "day": 14
+                },
+                {
+                    "rooms": ["r15"],
+                    "shift": "night",
+                    "day": 15
+                },
+                {
+                    "rooms": [
+                        "r15",
+                        "r09",
+                        "r18"
+                    ],
+                    "shift": "early",
+                    "day": 17
+                },
+                {
+                    "rooms": [
+                        "r01",
+                        "r09",
+                        "r18",
+                        "r19"
+                    ],
+                    "shift": "late",
+                    "day": 18
+                },
+                {
+                    "rooms": [
+                        "r01",
+                        "r11",
+                        "r16",
+                        "r15"
+                    ],
+                    "shift": "late",
+                    "day": 19
+                },
+                {
+                    "rooms": ["r01"],
+                    "shift": "late",
+                    "day": 20
+                }
+            ],
+            "id": "n033"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": ["r16"],
+                    "shift": "early",
+                    "day": 0
+                },
+                {
+                    "rooms": [
+                        "r15",
+                        "r06",
+                        "r11"
+                    ],
+                    "shift": "early",
+                    "day": 2
+                },
+                {
+                    "rooms": [
+                        "r11",
+                        "r15",
+                        "r06"
+                    ],
+                    "shift": "late",
+                    "day": 3
+                },
+                {
+                    "rooms": [
+                        "r00",
+                        "r08",
+                        "r12",
+                        "r19"
+                    ],
+                    "shift": "late",
+                    "day": 4
+                },
+                {
+                    "rooms": ["r19"],
+                    "shift": "late",
+                    "day": 5
+                },
+                {
+                    "rooms": ["r19"],
+                    "shift": "early",
+                    "day": 7
+                },
+                {
+                    "rooms": ["r19"],
+                    "shift": "late",
+                    "day": 8
+                },
+                {
+                    "rooms": ["r17"],
+                    "shift": "night",
+                    "day": 9
+                },
+                {
+                    "rooms": [
+                        "r17",
+                        "r19",
+                        "r02",
+                        "r05"
+                    ],
+                    "shift": "night",
+                    "day": 10
+                },
+                {
+                    "rooms": ["r19"],
+                    "shift": "late",
+                    "day": 12
+                },
+                {
+                    "rooms": ["r13"],
+                    "shift": "late",
+                    "day": 14
+                },
+                {
+                    "rooms": [
+                        "r13",
+                        "r16",
+                        "r08"
+                    ],
+                    "shift": "late",
+                    "day": 15
+                },
+                {
+                    "rooms": [
+                        "r03",
+                        "r01",
+                        "r08"
+                    ],
+                    "shift": "early",
+                    "day": 17
+                },
+                {
+                    "rooms": [
+                        "r07",
+                        "r13",
+                        "r11"
+                    ],
+                    "shift": "early",
+                    "day": 19
+                },
+                {
+                    "rooms": [
+                        "r13",
+                        "r07"
+                    ],
+                    "shift": "early",
+                    "day": 20
+                }
+            ],
+            "id": "n034"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": [
+                        "r17",
+                        "r10"
+                    ],
+                    "shift": "early",
+                    "day": 1
+                },
+                {
+                    "rooms": ["r17"],
+                    "shift": "late",
+                    "day": 2
+                },
+                {
+                    "rooms": ["r17"],
+                    "shift": "early",
+                    "day": 5
+                },
+                {
+                    "rooms": [
+                        "r17",
+                        "r14",
+                        "r19"
+                    ],
+                    "shift": "late",
+                    "day": 6
+                },
+                {
+                    "rooms": ["r16"],
+                    "shift": "late",
+                    "day": 7
+                },
+                {
+                    "rooms": ["r01"],
+                    "shift": "early",
+                    "day": 9
+                },
+                {
+                    "rooms": [
+                        "r03",
+                        "r01"
+                    ],
+                    "shift": "late",
+                    "day": 10
+                },
+                {
+                    "rooms": ["r03"],
+                    "shift": "late",
+                    "day": 11
+                },
+                {
+                    "rooms": ["r03"],
+                    "shift": "late",
+                    "day": 12
+                },
+                {
+                    "rooms": ["r15"],
+                    "shift": "late",
+                    "day": 14
+                },
+                {
+                    "rooms": ["r15"],
+                    "shift": "late",
+                    "day": 15
+                },
+                {
+                    "rooms": [
+                        "r13",
+                        "r19",
+                        "r04",
+                        "r16"
+                    ],
+                    "shift": "early",
+                    "day": 17
+                },
+                {
+                    "rooms": ["r16"],
+                    "shift": "late",
+                    "day": 18
+                },
+                {
+                    "rooms": [
+                        "r14",
+                        "r04"
+                    ],
+                    "shift": "early",
+                    "day": 20
+                }
+            ],
+            "id": "n035"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": [
+                        "r04",
+                        "r10"
+                    ],
+                    "shift": "early",
+                    "day": 0
+                },
+                {
+                    "rooms": ["r08"],
+                    "shift": "late",
+                    "day": 2
+                },
+                {
+                    "rooms": ["r08"],
+                    "shift": "late",
+                    "day": 3
+                },
+                {
+                    "rooms": [
+                        "r00",
+                        "r01",
+                        "r03"
+                    ],
+                    "shift": "late",
+                    "day": 5
+                },
+                {
+                    "rooms": ["r03"],
+                    "shift": "late",
+                    "day": 6
+                },
+                {
+                    "rooms": ["r16"],
+                    "shift": "late",
+                    "day": 8
+                },
+                {
+                    "rooms": ["r16"],
+                    "shift": "night",
+                    "day": 9
+                },
+                {
+                    "rooms": [
+                        "r16",
+                        "r02"
+                    ],
+                    "shift": "early",
+                    "day": 11
+                },
+                {
+                    "rooms": [
+                        "r16",
+                        "r02"
+                    ],
+                    "shift": "night",
+                    "day": 12
+                },
+                {
+                    "rooms": [
+                        "r02",
+                        "r12"
+                    ],
+                    "shift": "night",
+                    "day": 15
+                },
+                {
+                    "rooms": [
+                        "r12",
+                        "r02"
+                    ],
+                    "shift": "early",
+                    "day": 17
+                },
+                {
+                    "rooms": ["r02"],
+                    "shift": "late",
+                    "day": 18
+                },
+                {
+                    "rooms": ["r02"],
+                    "shift": "late",
+                    "day": 19
+                },
+                {
+                    "rooms": [
+                        "r11",
+                        "r12",
+                        "r07",
+                        "r02"
+                    ],
+                    "shift": "late",
+                    "day": 20
+                }
+            ],
+            "id": "n036"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": ["r05"],
+                    "shift": "early",
+                    "day": 0
+                },
+                {
+                    "rooms": ["r05"],
+                    "shift": "late",
+                    "day": 2
+                },
+                {
+                    "rooms": [
+                        "r07",
+                        "r05",
+                        "r12"
+                    ],
+                    "shift": "late",
+                    "day": 5
+                },
+                {
+                    "rooms": ["r12"],
+                    "shift": "late",
+                    "day": 6
+                },
+                {
+                    "rooms": ["r02"],
+                    "shift": "late",
+                    "day": 7
+                },
+                {
+                    "rooms": ["r02"],
+                    "shift": "late",
+                    "day": 8
+                },
+                {
+                    "rooms": ["r13"],
+                    "shift": "night",
+                    "day": 9
+                },
+                {
+                    "rooms": [
+                        "r10",
+                        "r13"
+                    ],
+                    "shift": "early",
+                    "day": 11
+                },
+                {
+                    "rooms": [
+                        "r12",
+                        "r14",
+                        "r10",
+                        "r00",
+                        "r17"
+                    ],
+                    "shift": "late",
+                    "day": 12
+                },
+                {
+                    "rooms": [
+                        "r04",
+                        "r03",
+                        "r20",
+                        "r14"
+                    ],
+                    "shift": "night",
+                    "day": 15
+                },
+                {
+                    "rooms": ["r10"],
+                    "shift": "early",
+                    "day": 17
+                },
+                {
+                    "rooms": [
+                        "r04",
+                        "r15"
+                    ],
+                    "shift": "early",
+                    "day": 19
+                },
+                {
+                    "rooms": ["r15"],
+                    "shift": "late",
+                    "day": 20
+                }
+            ],
+            "id": "n037"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": [
+                        "r15",
+                        "r11"
+                    ],
+                    "shift": "early",
+                    "day": 0
+                },
+                {
+                    "rooms": ["r15"],
+                    "shift": "late",
+                    "day": 2
+                },
+                {
+                    "rooms": ["r00"],
+                    "shift": "late",
+                    "day": 6
+                },
+                {
+                    "rooms": [
+                        "r11",
+                        "r00"
+                    ],
+                    "shift": "late",
+                    "day": 7
+                },
+                {
+                    "rooms": ["r00"],
+                    "shift": "night",
+                    "day": 9
+                },
+                {
+                    "rooms": [
+                        "r18",
+                        "r17"
+                    ],
+                    "shift": "early",
+                    "day": 11
+                },
+                {
+                    "rooms": [
+                        "r12",
+                        "r08",
+                        "r17",
+                        "r18"
+                    ],
+                    "shift": "night",
+                    "day": 12
+                },
+                {
+                    "rooms": [
+                        "r18",
+                        "r16"
+                    ],
+                    "shift": "night",
+                    "day": 15
+                },
+                {
+                    "rooms": ["r15"],
+                    "shift": "late",
+                    "day": 18
+                },
+                {
+                    "rooms": [
+                        "r19",
+                        "r15"
+                    ],
+                    "shift": "early",
+                    "day": 20
+                }
+            ],
+            "id": "n038"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": [
+                        "r07",
+                        "r12"
+                    ],
+                    "shift": "early",
+                    "day": 0
+                },
+                {
+                    "rooms": [
+                        "r12",
+                        "r11",
+                        "r06",
+                        "r07"
+                    ],
+                    "shift": "night",
+                    "day": 2
+                },
+                {
+                    "rooms": ["r15"],
+                    "shift": "early",
+                    "day": 7
+                },
+                {
+                    "rooms": [
+                        "r15",
+                        "r12"
+                    ],
+                    "shift": "late",
+                    "day": 8
+                },
+                {
+                    "rooms": ["r07"],
+                    "shift": "early",
+                    "day": 11
+                },
+                {
+                    "rooms": [
+                        "r07",
+                        "r00"
+                    ],
+                    "shift": "night",
+                    "day": 12
+                },
+                {
+                    "rooms": [
+                        "r13",
+                        "r10"
+                    ],
+                    "shift": "early",
+                    "day": 16
+                },
+                {
+                    "rooms": ["r10"],
+                    "shift": "late",
+                    "day": 18
+                },
+                {
+                    "rooms": ["r13"],
+                    "shift": "late",
+                    "day": 19
+                }
+            ],
+            "id": "n039"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": ["r09"],
+                    "shift": "late",
+                    "day": 3
+                },
+                {
+                    "rooms": ["r01"],
+                    "shift": "late",
+                    "day": 7
+                },
+                {
+                    "rooms": [
+                        "r17",
+                        "r19",
+                        "r11"
+                    ],
+                    "shift": "late",
+                    "day": 11
+                },
+                {
+                    "rooms": ["r19"],
+                    "shift": "night",
+                    "day": 12
+                },
+                {
+                    "rooms": [
+                        "r20",
+                        "r02"
+                    ],
+                    "shift": "early",
+                    "day": 16
+                },
+                {
+                    "rooms": ["r20"],
+                    "shift": "late",
+                    "day": 18
+                },
+                {
+                    "rooms": ["r16"],
+                    "shift": "early",
+                    "day": 20
+                }
+            ],
+            "id": "n040"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": [
+                        "r12",
+                        "r02"
+                    ],
+                    "shift": "late",
+                    "day": 3
+                },
+                {
+                    "rooms": ["r13"],
+                    "shift": "late",
+                    "day": 7
+                },
+                {
+                    "rooms": ["r15"],
+                    "shift": "early",
+                    "day": 13
+                },
+                {
+                    "rooms": ["r03"],
+                    "shift": "early",
+                    "day": 19
+                },
+                {
+                    "rooms": [
+                        "r20",
+                        "r11",
+                        "r00",
+                        "r12",
+                        "r03"
+                    ],
+                    "shift": "early",
+                    "day": 20
+                }
+            ],
+            "id": "n041"
+        },
+        {
+            "assignments": [
+                {
+                    "rooms": ["r10"],
+                    "shift": "late",
+                    "day": 3
+                },
+                {
+                    "rooms": [
+                        "r18",
+                        "r19"
+                    ],
+                    "shift": "late",
+                    "day": 7
+                },
+                {
+                    "rooms": [
+                        "r10",
+                        "r14"
+                    ],
+                    "shift": "early",
+                    "day": 13
+                },
+                {
+                    "rooms": [
+                        "r05",
+                        "r01",
+                        "r20"
+                    ],
+                    "shift": "early",
+                    "day": 19
+                }
+            ],
+            "id": "n042"
+        },
+        {
+            "assignments": [{
+                "rooms": ["r10"],
+                "shift": "early",
+                "day": 19
+            }],
+            "id": "n043"
+        }
+    ]
+}

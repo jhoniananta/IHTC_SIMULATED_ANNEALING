@@ -1,0 +1,5 @@
+iteration,time_sec,current_cost,best_cost,hard_violations,improvements
+100,1.00,152810,152810,0,21
+200,2.00,150135,150135,0,30
+300,2.00,148335,148335,0,36
+400,3.00,145695,145695,0,44
